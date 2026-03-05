@@ -48,4 +48,30 @@ Registro cronologico de cambios significativos. Formato: fecha, descripcion, arc
 - DiscoveryBench estructura real: `discoverybench/real/train/<folder_name>/` (no `real/<domain>/`)
 - Carpetas: `evolution_freshwater_fish`, `nls_bmi`, `nls_bmi_raw`, `immigration_offshoring_effect_on_employment`
 - Cada carpeta tiene `metadata_N.json` + archivos de datos (CSV o DTA)
-- `extract.py` necesita adaptarse a esta estructura (pendiente)
+
+---
+
+## 2026-03-05 — Adaptacion a datos reales de DiscoveryBench
+
+### extract.py reescrito
+- Ahora apunta a `real/train/<folder_name>/` en vez de `real/<domain>/`
+- TASK_ALIASES mapean a folders reales: `evolution_freshwater_fish`, `nls_bmi`, `immigration_offshoring_effect_on_employment`
+- Parsea formato real de columnas: `{"raw": [{"name": ..., "description": ...}]}` -> dict plano `{name: desc}`
+- Parsea queries nested: `[[{qid, question, true_hypothesis}]]` -> lista flat
+- Agrega flag `--list` para listar todas las tareas disponibles
+- Agrega `--metadata-index` para elegir variante de metadata
+
+### common.py actualizado
+- `build_dataset_summary` ahora soporta archivos `.dta` (Stata) via `pd.read_stata()`
+
+### Tareas extraidas
+- `data/tasks/biology_fish.json` — biology, 1 dataset (CSV, 460x21), 3 queries
+- `data/tasks/sociology_bmi.json` — sociology, 1 dataset (CSV, 12686x9), 2 queries
+- `data/tasks/economics_immigration.json` — economics, 2 datasets (DTA, 464x3 + 464x4), 2 queries
+
+### Hallazgos
+- Formato de metadata de DiscoveryBench: columns son `{"raw": [{name, description, depth}]}`, no dict plano
+- Queries son listas de listas (agrupadas), no lista flat
+- Los 3 archivos .dta se leen sin problemas con `pd.read_stata()`
+- Biology tiene 4 metadata variants (0-3), sociology 6 (0-5), economics 2 (0-1)
+- Usamos metadata_0 para todas las tareas POC (query mas representativa)

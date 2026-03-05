@@ -32,14 +32,18 @@ def build_dataset_summary(task):
             part += "Columns:\n"
             for col_name, col_desc in ds["columns"].items():
                 part += f"  - {col_name}: {col_desc}\n"
-        if ds.get("csv_path") and os.path.exists(ds["csv_path"]):
+        data_path = ds.get("csv_path", "")
+        if data_path and os.path.exists(data_path):
             try:
-                df = pd.read_csv(ds["csv_path"])
+                if data_path.endswith(".dta"):
+                    df = pd.read_stata(data_path)
+                else:
+                    df = pd.read_csv(data_path)
                 part += f"Shape: {df.shape[0]} rows x {df.shape[1]} columns\n"
                 part += f"Preview (first 5 rows):\n{df.head().to_string()}\n"
                 part += f"Summary statistics:\n{df.describe().to_string()}\n"
             except Exception as e:
-                part += f"(Could not load CSV: {e})\n"
+                part += f"(Could not load data: {e})\n"
         parts.append(part)
     return "\n---\n".join(parts)
 
