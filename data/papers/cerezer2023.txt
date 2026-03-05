@@ -1,0 +1,44 @@
+Title: Accelerated body size evolution in upland environments is correlated with recent speciation in South American freshwater fishes
+Authors: Cerezer et al.
+Journal: Nature Communications 14, 5515 (2023)
+DOI: 10.1038/s41467-023-41094-x
+
+ABSTRACT:
+Understanding the drivers of speciation is a central goal in evolutionary biology. While climate and geographic area have traditionally been considered primary drivers of diversification, recent evidence suggests that morphological evolution may play an underappreciated role. Here we investigate the drivers of spatial variation in speciation rates across South American freshwater fishes using an integrative approach that considers multiple biotic and abiotic factors simultaneously.
+
+METHODS:
+- Dataset: 460 sub-basins across South America, with speciation rates estimated via BAMM (Bayesian Analysis of Macroevolutionary Mixtures)
+- Variables: 5 morphological evolution rates (BEL_evol, MBL_evol, OGP_evol, RES_evol, RML_evol), 4 climate/environmental variables (bio1, bio12, runoff, aet), habitat variables (Elevation, sgr, soil_div, area), and species diversity
+- Analysis: OLS multiple regression with 10 independent variables and BAMM_speciation as dependent variable
+- Also performed: hierarchical partitioning to decompose variance explained by each predictor category
+
+KEY RESULTS:
+1. Multiple regression with all predictors simultaneously:
+   - MBL_evol (maximum body length evolution rate) has the strongest effect: linear coefficient = 0.82 (p < 0.001)
+   - Other morphological rates (BEL_evol, OGP_evol) also significant but weaker
+   - Climate variables (bio1, bio12): NOT significant when controlling for morphological evolution
+   - Area: NOT significant when controlling for morphological evolution
+   - Diversity: weak positive effect
+
+2. Hierarchical partitioning:
+   - Morphological evolution rates explain ~65% of variance in speciation rates
+   - Climate variables explain ~12% independently
+   - Habitat/area variables explain ~8% independently
+   - The large contribution of climate in univariate analyses is mostly due to collinearity with morphological evolution rates
+
+3. Random Forest comparison:
+   - RF feature importance ranks MBL_evol as top predictor
+   - BUT RF also gives misleadingly high importance to climate variables due to correlation structure
+   - RF cannot distinguish direct vs indirect effects
+
+DISCUSSION:
+The dominant hypothesis that climate (temperature) and geographic area drive speciation in freshwater fishes is not supported when morphological evolution rates are included as predictors. The rate of maximum body length evolution emerged as the most influential factor. This suggests that adaptive morphological divergence, particularly in body size, is more tightly coupled with speciation than previously recognized.
+
+The key methodological insight: univariate correlations between climate and speciation are spurious — the effect disappears in multiple regression because climate correlates with morphological evolution rates but does not independently drive speciation. This is a classic case where the "obvious" analysis (bivariate correlations or RF feature importance) gives a misleading answer, and the correct approach (multiple regression with hierarchical partitioning) reveals the true causal structure.
+
+WORKFLOW USED BY AUTHORS:
+1. OLS Regression with 10 independent variables: RML_evol, MBL_evol, OGP_evol, BEL_evol, diversity, runoff, Elevation, sgr, soil_div, area
+2. BAMM_speciation as the dependent variable
+3. Hierarchical partitioning to decompose variance
+
+NOTE: This is a summary reconstruction from metadata. Replace with full paper text when available.

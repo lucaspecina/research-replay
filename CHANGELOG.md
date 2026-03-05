@@ -75,3 +75,17 @@ Registro cronologico de cambios significativos. Formato: fecha, descripcion, arc
 - Los 3 archivos .dta se leen sin problemas con `pd.read_stata()`
 - Biology tiene 4 metadata variants (0-3), sociology 6 (0-5), economics 2 (0-1)
 - Usamos metadata_0 para todas las tareas POC (query mas representativa)
+
+---
+
+## 2026-03-05 — Paper stub y verificacion de imports
+
+### Paper
+- Creado `data/papers/cerezer2023.txt` como stub (reconstruido desde metadata + PROJECT.md)
+- Incluye: abstract, methods, key results, discussion, workflow
+- Nature bloquea web fetch directo — pendiente reemplazar con paper real
+
+### Verificacion
+- Todos los imports de `src/llm.py` y `src/common.py` funcionan correctamente
+- `extract_json` parsea JSON directo y en code blocks
+- Pipeline listo para testear con credenciales Azure OpenAI reales

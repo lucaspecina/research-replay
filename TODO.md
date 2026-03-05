@@ -6,7 +6,7 @@ Tracking de tareas pendientes, en progreso y bloqueadas. Actualizar cada vez que
 
 ## En progreso
 
-- [ ] Obtener texto del paper Cerezer et al. 2023 para `data/papers/cerezer2023.txt`
+- [ ] Reemplazar paper stub de Cerezer 2023 con texto completo del paper real
 - [ ] Configurar `.env` con credenciales Azure OpenAI reales
 
 ## Pendiente — Pipeline core
