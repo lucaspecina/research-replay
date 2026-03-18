@@ -6,19 +6,26 @@ Tracking de tareas pendientes, en progreso y bloqueadas. Actualizar cada vez que
 
 ## En progreso
 
+- [ ] Correr `generate_anchored.py` en las 4 tareas restantes (archaeology, meta_regression, plants_pathways, worldbank_education)
 - [ ] Reemplazar paper stub de Cerezer 2023 con texto completo del paper real
 
 ## Pendiente — Data
 
-- [ ] Obtener texto de paper para sociology_bmi
-- [ ] Obtener texto de paper para economics_immigration
-- [ ] Generar trayectorias agentic para sociology_bmi
-- [ ] Generar trayectorias agentic para economics_immigration
+- [ ] Obtener texto de paper para sociology_bmi y economics_immigration (tareas originales train)
+- [ ] Escalar anchored a todas las variantes de metadata de DiscoveryBench (~60-80 combinaciones)
 
 ## Pendiente — Pipeline
 
-- [ ] Adaptar `generate_interleaved.py` al modo agentic
-- [ ] Multiples runs por tarea (2-3 privi + 2-3 base) para medir varianza
+- [ ] Implementar base-anchored mode (DAgger) en `generate_anchored.py --anchor base`
+- [ ] Refactorizar `generate_loop.py` para usar `TrajectoryRunner`
+- [ ] Multiples runs por tarea para medir varianza
+
+## Pendiente — Training
+
+- [ ] Testear `format_dpo.py` con pares anchored reales
+- [ ] Elegir modelo target para fine-tuning (Llama-3.1-8B? DeepSeek-R1-Distill?)
+- [ ] Implementar `training/env.py` completo con verifiers library
+- [ ] Setup Azure ML compute para DPO training
 
 ## Pendiente — Evaluacion
 
@@ -27,6 +34,19 @@ Tracking de tareas pendientes, en progreso y bloqueadas. Actualizar cada vez que
 
 ## Completado
 
+- [x] Implementar arquitectura SREG-aligned (python_exec, trajectory_runner, verifier)
+- [x] Crear `src/python_exec.py` (persistent namespace, reemplaza sandbox subprocess)
+- [x] Crear `src/trajectory_runner.py` (estado del episodio con snapshots)
+- [x] Crear `src/verifier.py` (scoring centralizado)
+- [x] Crear `src/generate_anchored.py` (pares DPO privi-anchored, two-pass)
+- [x] Crear `src/format_dpo.py` (export JSONL para TRL)
+- [x] Crear `src/training/rubric.py` (reward dispatcher)
+- [x] Crear `src/training/env.py` (stub verifiers.StatefulToolEnv)
+- [x] Validar anchored mode en biology_fish — 6 pares limpios desde estados identicos
+- [x] Buscar y obtener 4 papers open access (Appiah 2017, Brozio 2024, Heyard 2024, Riera 2024)
+- [x] Extraer 4 tareas nuevas de DiscoveryBench test split
+- [x] Extender `extract.py` para soportar train + test splits
+- [x] Correr pipeline agentic independiente en 5 tareas (20 fork pairs total)
 - [x] Configurar `.env` con credenciales Azure AI Foundry
 - [x] Implementar modo semi-agentic (code execution en datos reales)
 - [x] Crear `src/sandbox.py` (ejecucion segura de codigo via subprocess)

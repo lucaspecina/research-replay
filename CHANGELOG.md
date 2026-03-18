@@ -4,6 +4,35 @@ Registro cronologico de cambios significativos. Formato: fecha, descripcion, arc
 
 ---
 
+## 2026-03-18 — Arquitectura SREG-aligned + privi-anchored pairs
+
+### Problema identificado: pares DPO invalidos
+- Las trayectorias independientes (privi y base) divergen despues del step 1
+- Comparar step N de una con step N de la otra no es un par valido: vienen de estados distintos
+- Para DPO necesitamos pares desde el MISMO estado
+
+### Nueva arquitectura alineada con synthetic-research-envs (SREG)
+- `src/python_exec.py` — Persistent namespace (reemplaza subprocess). Variables viven entre steps como un Jupyter notebook
+- `src/trajectory_runner.py` — TrajectoryRunner (como EpisodeRunner de SREG). Gestiona estado, steps, code execution, snapshots
+- `src/verifier.py` — VerifierTool (single authority scoring). Compara decisiones contra gold hypothesis
+- `src/generate_anchored.py` — Two-pass privi-anchored: (1) corre privi con code real, (2) en cada checkpoint pregunta al base que haria desde el MISMO estado
+- `src/format_dpo.py` — Export a JSONL compatible con TRL
+- `src/training/rubric.py` — Reward dispatcher (como SREG)
+- `src/training/env.py` — Stub para verifiers.StatefulToolEnv
+
+### Primer anchored run (biology_fish)
+- 6 pares limpios desde estados identicos (vs 4 aproximados del pipeline viejo)
+- Divergencias: 0.44 a 1.00 — todos usables
+- Persistent namespace validado: variables de step 1 accesibles en step 4
+
+### Papers y tareas nuevas
+- 4 papers open access encontrados y guardados: Appiah 2017, Brozio 2024, Heyard 2024, Riera 2024
+- 4 tareas nuevas extraidas de DiscoveryBench test split
+- `extract.py` extendido para soportar train + test splits
+- Pipeline agentic independiente corrido en 5 tareas (20 fork pairs total)
+
+---
+
 ## 2026-03-18 — Semi-agentic pipeline + primer end-to-end
 
 ### Cambio de paradigma: simulated -> semi-agentic

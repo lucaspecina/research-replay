@@ -18,12 +18,32 @@ MAX_OUTPUT = 3000
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Builtins to block (security)
-_BLOCKED = {"exec", "eval", "compile", "open", "__import__", "input", "breakpoint"}
+_BLOCKED = {"exec", "eval", "compile", "open", "input", "breakpoint"}
+
+# Allowed imports (safe libraries for data analysis)
+_ALLOWED_IMPORTS = {
+    "pandas", "numpy", "scipy", "sklearn", "statsmodels",
+    "math", "statistics", "json", "collections", "itertools",
+    "functools", "re", "warnings", "copy",
+}
+
+
+def _safe_import(name, *args, **kwargs):
+    """Allow importing only whitelisted modules."""
+    top_level = name.split(".")[0]
+    if top_level not in _ALLOWED_IMPORTS:
+        raise ImportError(f"Import of '{name}' is not allowed. Allowed: {sorted(_ALLOWED_IMPORTS)}")
+    return __builtins_original_import__(name, *args, **kwargs)
+
+
+# Keep original import for internal use
+import builtins as _builtins_module
+__builtins_original_import__ = _builtins_module.__import__
 
 
 def _make_safe_builtins():
-    import builtins
-    safe = {k: v for k, v in vars(builtins).items() if k not in _BLOCKED}
+    safe = {k: v for k, v in vars(_builtins_module).items() if k not in _BLOCKED}
+    safe["__import__"] = _safe_import
     return safe
 
 
