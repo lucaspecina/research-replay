@@ -1,0 +1,548 @@
+================================================================================
+TITLE: Effect of introduction pathways on the invasion success of
+non-native plants along environmental gradients
+================================================================================
+
+AUTHORS: Marc Riera (1,2), Joan Pino (2,1), Llorenç Sáez (3),
+Pere Aymerich (4), Yolanda Melero (5,6,1)
+
+AFFILIATIONS:
+1. Universitat Autònoma de Barcelona (UAB)
+2. Centre for Research on Ecology and Forestry Applications (CREAF)
+3. UAB, Department of Animal Biology, Plant Biology and Ecology
+4. Barcelona, Spain
+5. Universitat de Barcelona, Department of Evolutionary Biology
+6. Institut de Biologia Evolutiva (CSIC-UPF)
+
+JOURNAL: Biological Invasions (2024) 26:1561-1580
+DOI: https://doi.org/10.1007/s10530-024-03270-0
+LICENSE: CC BY 4.0 (Open Access)
+PUBLISHED: 27 February 2024
+
+--------------------------------------------------------------------------------
+ABSTRACT
+--------------------------------------------------------------------------------
+
+Our understanding on the role of introduction pathways on plant invasions is incomplete because their interaction with other factors remains poorly studied.
+
+We contributed to filling this knowledge gap, by analysing temporal trends in pathway importance, pathway-specific differences in the invaded niche, and the effect of pathways on invasion success. We used the non-native flora of Catalonia (NE Spain) as a study system.
+
+The contribution of pathways to the non-native flora interacted with time: from before 1500 to the present, gardening replaced agriculture as the main donor of new plants, while the contribution of unintentional introductions fluctuated without a consistent trend.
+
+Among neophytes (plants introduced after 1500), introduction pathways influenced differences mainly in habitat type, and secondarily in elevation: natural habitats and high elevation promoted invasion by gardening plants over unintentionally introduced ones.
+
+These nuances were unrelated to interactions between environmental variables.
+
+Among neophytes, invasion success was unrelated to pathways and interactions between pathways and traits, but was positively related to minimum residence time: older introductions achieved greater area of occupancy, habitat range, and invaded climatic niche breadth.
+
+Our results suggest that non-native plants diversified their niches over time (1500-present), a process that resulted in similar area of occupancy and niche breadth across plants with different introduction pathways.
+
+This was accompanied by pathway-specific nuances in the type of invaded environmental conditions.
+
+--------------------------------------------------------------------------------
+INTRODUCTION
+--------------------------------------------------------------------------------
+
+Human socioeconomic activity is currently re-shaping the distribution of species through the intentional and accidental transport of species beyond biogeographic barriers (Dawson et al. 2017 ; Pyšek et al. 2017 ).
+
+For non-native plants, such introductions occur via gardening, agriculture, forestry, and the global exchange of commodities and people (Kowarik and von der Lippe 2007 ; van Kleunen et al. 2018 ).
+
+This diversity of human socioeconomic activities that introduces non-native species has been categorized into the so-called introduction pathways (Hulme et al. 2008 ; Richardson et al. 2011 ; Harrower et al. 2018 ). Pathways influence the assembly of non-native floras (i.e.
+
+the accumulation over time of non-native plants in a recipient territory; Essl et al. 2015 ; Seebens et al. 2022 ) ; the invaded niche (i.e., the invaded environmental conditions in the invaded area; González-Moreno et al. 2013 ; Donaldson et al.
+
+2014 ) ; and the invasion success of non-native plants (i.e., the ability of a non-native plant to overcome barriers to invasion; Thuiller et al. 2012 ; van Kleunen et al. 2020 ; Riera et al. 2021 ) . However, it remains poorly known how pathways interact with intrinsic (e.g.
+
+species’ traits) and socioenvironmental factors in shaping species’ invasion over space and time (Pyšek et al. 2020 ).
+
+Filling these knowledge gaps is important because a better understanding of how pathways influence the invasion process is required to meet conservation targets, and prioritize pathways associated with greatest negative impact (Essl et al. 2015 ; McGeoch et al. 2016 ).
+
+Pathways are a key element in the management of biological invasions, as they offer an opportunity for the preventive management and early warning of new invaders (McGeoch et al. 2016 ; Convention on Biological Diversity 2014 ).
+
+The relative contribution of pathways to the assembly of non-native floras has shifted over time, following socioeconomic changes, such as the globalization of trade routes and substantial exchange of plants among continents (Hulme et al. 2008 ; Lambdon et al. 2008a ; Wilson et al.
+
+2009 ; Faulkner et al. 2016 ; Zieritz et al. 2017 ; Arianoutsou et al. 2021 ).
+
+One of the consequences of such socioeconomic changes is that in recent centuries (from 1500 onwards), gardening has replaced agriculture as the dominant source of new non-native plants (Mack and Lonsdale 2001 ; Pyšek et al. 2003 ; Sanz-Elorza et al. 2009 ; Lehan et al. 2013 ; Dodd et al.
+
+2015 ; Seebens et al. 2022 ; Cerrato et al. 2023 ). Yet, we know little about whether these replacement dynamics hold if we include plants introduced before the onset of extensive floristic exchange among continents (before 1500; Dehnen-Schmutz 2004 ).
+
+Such assessment could provide guidance for regions going through increasing globalization, which could be prone to mirror introduction patterns (Guo et al. 2017 ; Cerrato et al. 2023 ).
+
+The relationship between introduction pathways and the invaded niche relates to pathway-specific differences in the type of invaded environmental conditions, encompassing land use, climate and topography among other factors (Thuiller et al. 2006 ; Carboni et al. 2011 ; Donaldson et al. 2014 ).
+
+In particular, since land use approximates the type of human activity (González-Moreno et al. 2013 ; Donaldson et al. 2014 ; Riera et al. 2021 ), land use is expected to have an effect on propagule pressure (total number of introduced individuals across introduction events; Lockwood et al.
+
+2005 ) in a pathway-specific way. For example, urban land use would concentrate introduction epicentres (initial foci of introduction and spread; Early et al. 2016 ) for gardening introductions (e.g. public and private gardens; Padayachee et al. 2017 ; Riera et al. 2021 ).
+
+In contrast, agricultural land use might concentrate introductions of accidentally introduced weeds (e.g. crop seed contaminants) and escaped crops (Kowarik and von der Lippe , 2007 ; González-Moreno et al. 2013 ; Lehan et al. 2013 ).
+
+Pathway-specific differences in the invaded niche also relate to elevation, since non-native plants introduced through different pathways react differently to land use, anthropogenic disturbance, and transport infrastructure along elevation gradients (McDougall et al. 2011 ; Alexander et al.
+
+2016 ; Akatova and Akatov 2019 ). Previous work suggests that this relationship is context-dependent: gardening plants became less prevalent with increasing elevation in mountain regions worldwide (McDougall et al.
+
+2011 ) and in the Western Caucasus (Akatova and Akatov 2019 ), while an opposite pattern was reported in Central Europe (Chytrý et al. 2021 ) and South Africa (Thuiller et al. 2006 ).
+
+Moreover, pathway-specific differences in the invaded niche also relate to historical landscape (in coastal habitat patches; Basnou et al. 2015 ) , and the availability of dispersal corridors (roads and streams, in Mediterranean forest edges; González-Moreno et al.
+
+2013 ) , giving complex invasion patterns. Despite this knowledge, whether land use and elevation interact to define pathway-specific differences in the invaded niche has not been tested before (to the best of our knowledge).
+
+Invasion success depends not only on introduction pathways and environmental conditions, but also on the non-native plant’s traits and attributes (Pyšek and Richardson 2007 ; Gallagher et al. 2015 ; Casado et al. 2018 ; Pyšek et al. 2020 ).
+
+Invasion success is frequently measured via proxies such as geographical spread and niche breadth (Thuiller et al. 2012 ; van Kleunen et al. 2020 ; Riera et al. 2021 ).
+
+For example, geographical spread has been related to plant’s growth form and height, a proxy of a plant’s ability to acquire resources and life cycle span (Pyšek et al. 2017 ; Giulio et al. 2020 ; Lazzaro et al. 2020 ; Fristoe et al. 2021 ).
+
+Dispersal (through seed or asexual reproduction) is also crucial in geographical spread (Gassó et al. 2009 ; Fristoe et al. 2021 ; Moyano et al.
+
+2022 ), and plants with a wide climatic niche in their native range are likely to invade a wide breadth of climatic conditions in their non-native range (Castro-Díez et al. 2011 ).
+
+While not a plant trait per se, the time since the first record outside of cultivation (minimum residence time) has also been identified as an important correlate of the breadth of the invaded climatic niche (Banerjee et al. 2021 ), habitat range (Pyšek et al. 2011 ; Lazzaro et al.
+
+2020 ), and of geographical spread (Riera et al. 2021 ; Fristoe et al. 2021 ). Such plant attributes have mostly been tested without accounting for interactions with introduction pathways (Moyano et al.
+
+2022 ), although previous work found evidence of an interaction between introduction pathways and minimum residence time (Pyšek et al. 2011 ; Riera et al. 2021 ).
+
+Therefore, whether the effect of trait characteristics on invasion success can be amplified or reduced, by the way in which the plant was introduced, remains poorly understood.
+
+In this paper, we tested: (i) changes over time in the contribution of pathways to the assembly of a regional non-native flora; (ii) how these introduction pathways shape the invaded niche of non-native plants; (iii) how the interaction between pathways and plant traits shapes their invasion success in terms of area of occupancy, habitat range, and invaded climatic niche breadth.
+
+Specifically, we addressed the following hypotheses: (H1) Over the past millennium (from before 1500 to the present), we expected gardening to replace agriculture as the main contributor to the non-native flora, as reported in shorter timescales due to well known-socioeconomic changes (Pyšek et al.
+
+2003 ; Dehnen-Schmutz 2004 ; Sanz-Elorza et al. 2009 ). (H2) Urban land use would promote invasion by gardening plants over unintentionally introduced ones, based on the expectation that introduction epicentres for each pathway are related to the land use (González-Moreno et al.
+
+2013 ; Donaldson et al. 2014 ; Riera et al. 2021 ). (H3) Non-native plants introduced through gardening would invade lower elevations than those introduced unintentionally, (McDougall et al. 2011 ; Akatova and Akatov 2019 , but see: Thuiller et al. 2006 ; Chytrý et al. 2021 ) .
+
+(H4) The relationship between pathways and elevation would be affected by land use, with increasing urban use favouring gardening plants.
+
+(H5) Introduction pathways would interact with minimum residence time, with unintentionally introduced plants becoming more successful over time compared to those introduced through other pathways (Riera et al. 2021 ).
+
+
+--------------------------------------------------------------------------------
+METHODS
+--------------------------------------------------------------------------------
+
+--- Study Area ---
+
+We used the non-native flora of Catalonia (NE Spain) as a study system, since there is substantial information of the non-native flora of this Mediterranean region (Casasayas 1989 ; Andreu and Pino 2013 ; Clotet et al. 2016 ; Aymerich and Sáez 2019 ; Rotchés-Ribalta et al. 2021 ).
+
+We considered the overall region (32,000 km 2 ; 7.7 million inhabitants), and the sub-regional administrative unit of the Barcelona province (7726 km 2 ; 5.5 million inhabitants; Fig. 1 ). Catalonia is bounded by the Mediterranean coast in the East, and by the Pyrenees in the North.
+
+The region shows several climatic gradients, with increasing temperature and decreasing precipitation towards the South, and dry inland conditions compared to moist and temperate climates near the coast (Ninyerola et al. 2000 ).
+
+The Catalonia region includes the Barcelona province, which contains diverse ecosystems, mostly Mediterranean, but also encompassing temperate, sub-alpine and alpine environments (Clotet et al. 2016 ).
+
+Both Catalonia and the Barcelona province have endured substantial land use changes since the nineteenth century: important decrease of forested areas and croplands, in favour of residential, industrial, and commercial development.
+
+Moreover, population density increased along the coastline, in the Barcelona city and its conurbation (Ibàñez and Buriel 2010 ; Basnou et al. 2015 ). All these factors have favoured the spread of non-native plants (Pino et al. 2005 ; Clotet et al. 2016 ). Fig.
+
+1 Land-cover map of Catalonia, generalized from the land-cover map of 2009 ( http://www.creaf.uab.cat/mcsc/ ), with the Barcelona province outlined in red, and sampling points in light grey Full size image.
+
+--- Data Gathering and Variables Definition ---
+
+To test our five hypotheses, we classified non-native plants into three pathway categories: (1) agriculture and forestry (plants introduced for cultivation to provide food or timber); (2) gardening (plants introduced for cultivation as ornamentals or for medicinal use); and (3) unintentional (plants introduced accidentally with the sowing of contaminated seed lots, global trade and tourism).
+
+Such pathway classification was based on previous work on the non-native flora of Catalonia (Aymerich and Sáez 2019 ; Riera et al. 2021 ; Rotchés-Ribalta et al. 2021 ). These categories were not mutually exclusive: a non-native plant could have been introduced through more than one pathway.
+
+Our categories matched those of Hulme et al. ( 2008 ) as follows: “agriculture/forestry” and “gardening” related to subcategories of the Escape pathway, while “unintentional” combined the pathways Contaminant and Stowaway.
+
+Agriculture, forestry, and gardening plants encompassed plants with economic use (van Kleunen et al. 2020 ). We did not include other pathways (release, corridor, unaided) of the Hulme et al. ( 2008 ) framework, as these represented around 4% of all non-native plants in our study area (Riera et al.
+
+2021 ; Rotchés-Ribalta et al. 2021 ). However, a plant introduced through the “release” pathway was kept if it had also been introduced for gardening, and was classified to the “gardening” pathway.
+
+To address whether over the past millennium (before 1500–2019), gardening would replace agriculture as the main contributor to the non-native flora (H1), we used the recent checklist of the non-native flora of Catalonia, which included archaeophytes (plants introduced before 1500; Aymerich and Sáez 2019 ).
+
+We removed doubtful occurrences, intergeneric hybrids, and hybrids thought to have originated in our study area, yielding a selection of 1025 non-native plant species. We classified plants into the three above-mentioned introduction pathways.
+
+We note that 21 plants were introduced through two pathways, so they were duplicated in the database.
+
+We also classified plants into the following, expert-defined introduction periods: (1) before 1500 (previous to large-scale intercontinental trade, including the Middle Ages, Antiquity, and Prehistory); (2) 1501–1900 (increase in intercontinental trade, onset of industrialization); (3) 1901–1984 (strong industrialization, population increase and concentration in urban areas, onset of the “Great acceleration” in globalization; Lewis and Maslin 2018 ); and (4) 1985–2019 (accession of Spain to the European Union, increase in research interest into non-native plants, and further increase in intercontinental trade and concentration of population in urban areas).
+
+Such classification was based on the year of first record outside of cultivation (obtained mainly from Riera et al. 2021 ), except for plants introduced before 1500 (their introduction period was taken directly from Aymerich and Sáez 2019 ).
+
+To address the remaining hypotheses, we used data from a field sampling covering the Barcelona province (year of sampling: 2012; Clotet et al. 2016 ).
+
+Sampling plots (n = 632) were selected at random and stratified on a digital layer of the ten most widespread habitat types in the Barcelona province ( https://www.ub.edu/geoveg/en/semhaveg.php ).
+
+Then, presence and abundance of neophytes (plants introduced after 1500) were recorded in a radius of five meters around each point. Native species were not sampled because previous research found no consistent association between the richness of non-native and native plants (Vilà et al. 2007 ).
+
+Overall, we obtained data on the presence of 77 non-native plans, across 190 invaded plots.
+
+To test pathway-specific differences in shaping the invaded niche (H2–H4), we calculated the proportion of gardening plants per plot (out of the sum of gardening + unintentional), and modelled this proportion against environmental variables that defined the invaded niche (n = 190 invaded plots).
+
+Thus, we could test how environmental conditions promoted invasion by gardening plants over invasion by unintentionally introduced ones.
+
+We defined the niche with a selection of the following environmental variables (Table 1 ): habitat type, urban land-cover (2009), cropland land-cover (2009), elevation, climate (mean annual temperature, mean annual solar radiation, annual precipitation), topography (latitude, longitude, distance to nearest main stream, distance to nearest main road), historical landscape (cropland and urban land-cover in 1956 and 1993) and historical landscape changes (progressive, regressive and no changes; for the periods 1956–2009 and 1993–2009).
+
+Habitat type included ten categories (which we summarised into three for analysis, see next section): urban, cropland, coastal, broad-leaved forests, coniferous forests, meadows, riparian, rock outcrops, scrublands, and wetlands.
+
+The use of urban and cropland land-cover was complementary to the use of urban and cropland habitat type. Habitat types provided information at the local scale on the type of human activity, disturbance regime and vegetation structure of the plot.
+
+In comparison, land-cover provided information on the matrix in which the plot was embedded (i.e. which type of human activity, disturbance regime and vegetation structure surrounded the plot).
+
+We included distance to streams and roads, and historical landscape, since these landscape features can promote invasion (Chytrý et al. 2008 ; von der Lippe and Kowarik 2012 ; Basnou et al. 2015 ), and previous work in our study area has suggested pathway-specific differences (González-Moreno et al.
+
+2013 ; Basnou et al. 2015 ). We included longitude and latitude to account for spatial dependence, and longitudinal gradients of greater human activity towards the East (outlined in previous work; Clotet et al. 2016 ; Pino et al. 2005 ).
+
+We also included climatic variables because they are important drivers of plant invasions, as shown by previous work in our study area (Pino et al. 2005 ).
+
+Current and historical land-cover were calculated in buffers of 50, 500 and 1000 m around the sampling point (urban and cropland land-cover in 1956, 1993 and 2009).
+
+We only included land-cover variables calculated in 50-m buffers in analyses because this size was the most coherent with the size of the plots (i.e. it would not include overly remote areas), and we found no significant effect of buffer size on land-cover values (Supplementary file 1 Table S1 ).
+
+Then, historical landscape change was also calculated in 50-m buffers (see Supplementary Methods in the Supplementary file 1). Natural land-cover categories were not included as their coverage percentage depends on urban and cropland land-cover.
+
+All data was taken from field sampling or publicly-available databases (Table 1 ; Clotet et al. 2016 ).
+
+We did not model non-native plants introduced through agriculture and forestry (n = 20 invaded plots), because they were very infrequent compared to gardening (n = 117) and unintentionally introduced plants (n = 145).
+
+Instead, we illustrated pathway-specific niche differences of plants introduced through agriculture and forestry through descriptive statistics of their proportion (in relationship to the total number of non-native plants), across habitats.
+
+Table 1 Potential drivers of pathway-specific differences in the invaded niche, which we approximated through the proportion of plants introduced through gardening Full size table To address whether unintentionally introduced plants would become more successful over time compared to those introduced through other pathways (H5), we calculated invasion success in the Barcelona province.
+
+We used three complementary variables for all unintentionally and intentionally introduced plants: area of occupancy, habitat range and invaded climatic niche breadth (n = 77 non-native plants; Supplementary file 1 Fig. S1 ).
+
+Area of occupancy was the number of invaded 10-km grid cells, calculated through the overlay of a regular grid over occurrence coordinates (Martín-Forés et al. 2023 ).
+
+To minimize the effect of geometric uncertainty, we varied grid origin systematically over multiple iterations, and stored the smallest area of occupancy (the process stopped when the value did not decrease after five iterations, ‘redlistr’ package; Lee et al. 2019 ).
+
+We obtained similar results with grid cells of 1-km and 2-km (Pearson’s r > 0.98, for all pairwise correlations). Habitat range was the count of invaded habitat types (ten categories).
+
+Invaded climatic niche breadth was the spread of temperature, precipitation, and solar radiation conditions invaded by non-native plants, in units of standard deviations.
+
+We downloaded mean annual temperature (bio1), annual precipitation (bio12), and mean annual radiation, from WorldClim v2.1 (Fick and Hijmans 2017 ), at a resolution of 2.5 arc-minutes (‘geodata’ package; Hijmans et al. 2023 ).
+
+We extracted climate values on occurrences of non-native plants in the Barcelona province with the ‘terra’ package (Hijmans 2023 ). Then, we calculated a principal component analysis (‘factoMineR’ package; Lê et al.
+
+2008 ), calculated the standard deviation of the scores of the first two axes, and aggregated the resulting two values with the geometric mean (Palma et al. 2021 ). Non-native plants present in a single plot were assigned a value of zero.
+
+We then gathered data on introduction pathways (gardening, unintentional, agriculture and forestry), minimum residence time, and five plant traits selected for their potential relevance at explaining invasion success (Gassó et al. 2009 ; Castro-Díez et al. 2011 ; Casado et al. 2018 ; Lazzaro et al.
+
+2020 ; Fristoe et al. 2021 ): dispersal syndrome, vegetative reproduction, height, growth form and native niche breadth (Table 2 ).
+
+Introduction pathway and minimum residence time were taken from this work, and plant traits were taken from various sources (Castroviejo 1986 –2012; Brummitt 2001 ; Recasens and Conesa 2003 ; Sanz-Elorza et al. 2004 ; Bolòs et al.
+
+2005 ; Royal Botanic Gardens Kew 2020 ; USDA, Nrcs, 2020 ; POWO 2022 ; GBIF 2023 ). Table 2 Potential drivers of invasion success of non-native plants in the Barcelona province (area of occupancy, habitat range and invaded climatic niche breadth) Full size table.
+
+--- Statistical Analyses ---
+
+To test H1, we gathered a two-way contingency table to assess temporal trends in the relative contribution of each introduction pathway to the assembly of the non-native flora of Catalonia (Supplementary file 1 Table S2 ).
+
+To assess the strength of the temporal trends, we calculated significance (Chi-square test) and effect size (Cramér’s V, ‘DescTools’ package; Signorell and mult. al. 2022 ) of the interaction between introduction pathway and introduction period.
+
+To test H2–H4, we modelled the proportion of non-native plants introduced through gardening in relation to environmental variables defining the invaded niche (in the Barcelona province), by fitting Generalized Linear Models (GLMs) with binomial distribution (logit link).
+
+We set the explanatory variables as habitat type, urban land-cover, cropland land-cover, climate, topography, historical landscape and historical landscape changes (Table 1 ).
+
+To improve model fit, we reclassified the original ten habitat types into three categories: urban, cropland and natural (pooling the remaining eight categories).
+
+This was necessary because five of the “natural” habitats were represented by five or less invaded plots (see descriptive statistics in Table 3 ). While some of the “natural” habitats might have been associated with anthropogenic disturbance over long time periods (i.e.
+
+“semi-natural habitats”; Arianoutsou et al. 2013 ) , we refer to them as “natural” for simplicity.
+
+To control multicollinearity, we removed variables with high pairwise Pearson’s correlation (|r|> 0.75; Supplementary file 2), and those with less ecological meaning, till we achieved variance inflation factors below five (‘performance’ package, Lüdecke et al. 2021 ).
+
+We removed precipitation, temperature, and latitude, as they were correlated to elevation (all Pearson’s r ≥ 0.6). Mean annual radiation was correlated to longitude (r = − 0.81).
+
+Land-cover was correlated across the years (1956, 1993, 2009; all r ≥ 0.6), so we kept the most recent data in the models (2009).
+
+Likewise, historical landscape change between 1993 and 2009 was correlated to historical change between 1956 and 2009 (all r > 0.45), so we kept the variables describing a longer time period.
+
+In order to obtain comparable coefficients, we standardized the numerical predictors to a mean of zero and standard deviation of one (Schielzeth 2010 ).
+
+After standardizing, we fitted quadratic terms for cropland land-cover (2009), distance to streams, regressive changes (1956–2009) and no changes (1956–2009), because they improved a model with a standardized linear term (95% confidence interval of the quadratic term did not overlap zero, Akaike Information Criterion corrected for small sample sizes [AICc] decreased, Supplementary file 1 Table S3 ).
+
+We fitted the interactions: habitat type × elevation, elevation × urban land-cover (2009 values), and elevation × cropland land-cover (2009 values).
+
+Regardless of whether interactions were fitted, our full models fitted the data (likelihood ratio test: p –v < 0.01), were not biased by spatial autocorrelation (low Moran’s I of deviance residuals, Supplementary file 1 Fig.
+
+S2 , ‘ncf’ package; Bjornstad 2022 ), and did not show relevant overdispersion (dispersion ratio < 1.07, p –v > 0.2; Lüdecke et al. 2021 ). We approximated explained variance through McFadden’s pseudo-R 2 (Luchman 2014 ).
+
+Table 3 Overview of pathway-specific differences in the invaded niche, related to habitat type. The proportion of plants introduced through gardening was averaged from the proportion of gardening plants per plot (i.e. they do not come from the binomial GLM shown in Fig.
+
+3 ) Full size table To test H5, we fitted three separate phylogenetic least squares models (PGLS), for area of occupancy, habitat range, and invaded climatic niche breadth. We fitted Pagel’s lambda optimized through maximum likelihood, using the ‘phylolm’ package (Tung Ho and Ané 2014 ).
+
+We log-transformed the response variables to improve normality (for invaded climatic niche breadth, we avoided zeros by adding the smallest non-zero value prior to transformation).
+
+We obtained a phylogenetic tree of the non-native plants in our dataset from the mega phylogeny of Jin and Qian ( 2019 ), built on those of Zanne et al. ( 2014 ) and Smith and Brown ( 2018 ). We used default settings (nodes = build.nodes.1, scenarios = “S3”).
+
+We fitted interactions between introduction pathways and: minimum residence time, native niche breadth, and plant height. We did not include interactions between pathways and categorical predictors, since we would have less than five observations for some combinations of factor levels.
+
+We did not include quadratic terms, because their addition did not improve models with a standardized linear term (95% confidence interval of quadratic terms overlapped zero, AICc increased, Supplementary file 1 Table S3 ).
+
+Our full models for area of occupancy and habitat range fitted the data (likelihood ratio test, p –v < 0.05), and were not biased by multicollinearity (all variance inflation factors below five, ‘performance’ package; Lüdecke et al. 2021 ).
+
+The full model of invaded climatic niche breadth did not fit the data (likelihood ratio test: p –v > 0.05), but the simpler models included in the “best” subset according to AICc did fit the data.
+
+We assessed patterns of covariation among plant traits, with particular interest on covariation with introduction pathways. For H2–H5, we used multimodel inference to obtain model-averaged coefficients (full averaging: models without a variable shrank the coefficient of that variable towards zero).
+
+We fitted all combinations of explanatory variables, ranked the models using AICc, and kept for inference those models within six units of the best model (Harrison et al. 2018 ), using the ‘MuMIn’ package (Bartoń 2023 ).
+
+Within that subset, we averaged two types of models separately: those not including interactions, and those including interactions. We compared the model-averaged coefficients between models without and with interactions.
+
+An interaction was considered as “significant” if the 95% confidence interval of the model-averaged coefficient did not overlap zero. Model selection tables were available in the Supplementary file 3.
+
+We used the ‘emmeans’ package (Lenth 2023 ) to calculate estimated marginal means and trends from the model of proportion of plants introduced through gardening in relationship to environmental variables defining the invaded niche.
+
+All statistical analyses were performed in R-Studio (version 4.2.0; R Core Team 2022 ).
+
+--------------------------------------------------------------------------------
+RESULTS
+--------------------------------------------------------------------------------
+
+H1 Temporal trends in the contribution of pathways to the regional non-native flora The total number of introduced plants increased five-fold over the past millennium (before 1500–2019, Fig. 2 ).
+
+The relative contribution of pathways to the regional pool of non-native plants changed substantially through time (Chi-square test: p < 0.001; Cramér’s V = 0.332). Plants with economic use (gardening, agriculture, and forestry) were the major contributors to the non-native flora across time periods.
+
+However, agriculture/forestry and gardening showed opposite temporal trends.
+
+Agriculture and forestry decreased five-fold (from 50% before 1500, to around 10% in the twentieth and twenty-first centuries), in parallel with a three-fold increase in the relative importance of gardening (20% before 1500, to 50% at the beginning in the twentieth century, and up to 75% from 1985 to 2019).
+
+In contrast, the unintentional pathway fluctuated in relative importance without a clear temporal trend (ranging between 20 and 40%). Fig.
+
+2 Count of non-native plants per introduction period, with the relative importance of introduction pathways expressed as a percentage for each introduction period. N = 1046 (1025 non-native plants, 21 duplicated since they were introduced through two pathways).
+
+See Table S2 (Supplementary file 1) for contingency table.
+
+Abbreviations: AgriForest = agriculture and forestry Full size image H2-H4 Pathway-specific differences in the invaded niche Introduction pathways influenced small differences in the invaded niche, mainly in habitat type, and secondarily in elevation (Fig. 3 , Supplementary file 1 Table S4 ).
+
+We concluded this with binomial GLMs, which related the proportion of non-native plants introduced through gardening to environmental variables (full model without interactions: McFadden’s pseudo-R 2 = 0.141, AICc = 379.07).
+
+Across the three habitat types (cropland, urban, natural), gardening plants tended to be a minority of invaders, or have equal prevalence than unintentionally introduced plants (all three estimated marginal means ≤ 50% of invaders in a plot were introduced through gardening; model-averaged without interactions, Fig.
+
+3 ). Urban and cropland habitats reduced invasion by gardening plants in favour of unintentionally introduced ones (on average, 34% vs. 18%; Tukey pairwise contrast: p = 0.06).
+
+In contrast, natural habitats promoted invasion by gardening plants over unintentionally introduced ones: on average, gardening plants were 50% of invaders in natural habitats, which was a 60% increase and almost a three-fold increase compared to urban and cropland habitats (respectively, Tukey pairwise contrasts: p –v < 0.05).
+
+Furthermore, the positive effect of natural habitats on invasion by gardening plants was strongest in wetlands, riparian and coastal habitats (between 54 and 65% of invaders were introduced through gardening, between 16 and 32 invaded plots; Table 3 , Supplementary file 1 Fig. S3 ).
+
+Other pathway-specific differences regarding natural habitats could be unreliable due to small sample size (between 1 and 5 invaded plots, Table 3 ): gardening plants were the only invaders of broad-leaved and coniferous forests, they were absent in rock outcrops, and were a minority of invaders in scrublands and meadows (Supplementary file 1 Supplementary discussion).
+
+The invasion by non-native plants introduced by agriculture was overwhelmingly rare (Table 3 ), and was slightly promoted by riparian habitats (13% of all invaders, on average, Supplementary file 1 Supplementary discussion).
+
+Pathway-specific differences in the invaded niche related to elevation were small, and showed that high elevations favoured invasion by gardening plants compared to unintentional ones: for each increase in elevation of 236 m (one standard deviation), the proportion of gardening plants in a plot increased by 0.06 (estimated marginal trend, Fig.
+
+3 ). Fig. 3 Drivers of the proportion of gardening plants, in invaded plots in the Barcelona province. a Model-averaged coefficients for models without interactions (estimates and 95% confidence intervals).
+
+b Model-averaged coefficients for models with interactions (estimates and 95% confidence intervals). Estimates with a 95% confidence interval that includes zero have white filling.
+
+The intercept is the average proportion of gardening plants in plots located in cropland habitats, when all numerical predictors are at their mean value. Numerical predictors were standardized. Coefficients were at the logit-scale.
+
+c Estimated marginal means (estimate and 95% confidence interval, model-averaged from models without interactions). d Predicted trend of elevation on the proportion of gardening plants, model-averaged from models without interactions (slope and 95% confidence interval).
+
+Dots represent the proportion of gardening plants per plot. N = 190 invaded plots.
+
+See Supplementary file1 Table S4 for the exact values of coefficients Full size image Moreover, our results on pathway-specific differences in the invaded niche were largely unaffected by interactions between environmental variables (full model with interactions: McFadden’s pseudo-R 2 = 0.152, AICc = 384.30).
+
+Interactions between environmental variables, per se, did not influence differences between pathways in the invaded niche (Fig. 3 ). Furthermore, the pathway-specific differences related to habitat type were unaffected by interactions.
+
+Elevation was unrelated to pathway-specific niche differences when interactions were modelled (this variable was significant but of secondary importance in models without interactions).
+
+Therefore, interactions further strengthened the result of substantial similarity in the invaded niche of plants introduced through different pathways.
+
+H5 Pathway-specific differences in invasion success Introduction pathways did not influence differences in invasion success (full models without interactions, Fig.
+
+4 , Supplementary fie 1 Table S5 ), measured through: area of occupancy (adjusted R 2 = 0.173, AICc = 219.97, Pagel’s lambda = 0), habitat range (adjusted R 2 = 0.108, AICc = 158.48, Pagel’s lambda = 0), and invaded climatic niche breadth (adjusted R 2 = 0.045, AICc = 268.29, Pagel’s lambda = 0).
+
+In contrast, minimum residence time had a positive effect on invasion success: for each additional 62 years (one standard deviation), non-native plants increased in area of occupancy by 35%, increased habitat range by 19%, and increased invaded climatic niche breadth by 45% (exponent of standardized model-averaged coefficients, Fig.
+
+4 , Supplementary fie 1 Table S5 ). The rest of plant attributes were largely unimportant. Fig. 4 Drivers of area of occupancy, habitat range, and invaded climatic niche breadth, in the Barcelona province.
+
+a Model-averaged coefficients for models without interactions (estimates and 95% confidence intervals). b Model-averaged coefficients for models with interactions (estimates and 95% confidence intervals). Estimates with a 95% confidence interval that includes zero have white filling.
+
+The intercept is the average area of occupancy, habitat range, or invaded climatic niche breadth, for non-native plants with introduction pathway as agriculture or forestry, dispersal syndrome anemochorous, life form as annual forb or grass, and vegetative reproduction absent, when all numerical predictors are at their mean value.
+
+All response variables were log-transformed, and numerical predictors were standardized. c , d , e Predicted trends of minimum residence time of invasion success for the different pathways, with 95% confidence intervals. Dots represented non-native plants.
+
+N = 81 (77 non-native plants, four duplicated since they were introduced through two pathways). See Supplementary file1 Table S5 for the exact values of coefficients. Abbreviations: AgriForest = agriculture and forestry, Intro. pathway = Introduction pathway, MRT = minimum residence time, Unint.
+
+= unintentional Full size image Moreover, our results on the effect of pathways on invasion success were mostly unchanged by interactions between pathway and non-native plant attributes (full models with interactions): area of occupancy (adjusted R 2 = 0.218, AICc = 227.22, Pagel’s lambda = 0), habitat range (adjusted R 2 = 0.132, AICc = 168.03, Pagel’s lambda = 0.502), and invaded climatic niche breadth (adjusted R 2 = 0.046, AICc = 279.93, Pagel’s lambda = 0).
+
+Interactions between pathways and traits, per se, did not affect invasion success. However, minimum residence time was unrelated to invasion success when interactions were modelled, except for the positive effect on invaded climatic niche breadth.
+
+Overall, the modelling of interactions reinforced the result that minimum residence time was a key driver of invasion success, while introduction pathways and other plant attributes were largely unimportant (Fig. 4 ). Plant attributes were correlated (Supplementary file 1 Table S6 , Fig.
+
+S4 , and Supplementary discussion).
+
+Unintentionally introduced plants were mostly annuals (60%: 18 out of 30), while gardening plants were mostly perennial herbs and shrubs or trees (43% and 47%, respectively: 18 and 20 out of 42), and agriculture and forestry plants were mostly shrubs or trees (67%: 6 out of 9).
+
+Therefore, unintentionally introduced plants were shorter than plants introduced through other pathways (around five meter difference with gardening plants, and around ten meter difference with agriculture and forestry ones, on average).
+
+Unintentionally introduced plants tended to have wider native niches compared to gardening plants (0.22 standard deviation difference, on average).
+
+--------------------------------------------------------------------------------
+DISCUSSION
+--------------------------------------------------------------------------------
+
+Our study found evidence that introduction pathways of non-native plants changed in importance over the past millennium (1500–2019) with gardening replacing agriculture as the main pathway responsible for new introductions, while unintentional introductions were relatively constant over time.
+
+We also found that introduction pathways can shape the invaded niche, as observed in the studied area where natural habitats and high elevations were more likely to be invaded by gardening plants compared to unintentionally introduced ones.
+
+Moreover, invasion success was neither affected by introduction pathways, nor by interactions between pathways and plant attributes.
+
+Temporal trends in pathway importance As hypothesised, over the past millennium (before 1500–2019), gardening replaced agriculture as the main introduction pathway contributing new plants of non-native flora.
+
+Such replacement could be related to the intensification of agriculture and the increase in urban population (Ibàñez and Buriel 2010 ; Başnou et al. 2013 ).
+
+In other words, the use of plants has shifted from providers of food (dominance of agriculture before 1500), to providers of beauty (dominance of gardening after 1500; Pyšek et al. 2003 ; Dehnen-Schmutz 2004 ).
+
+The total number of introduced plants increased five-fold, likely related to increased global trade, gardening activities, and research effort (Pyšek et al. 2011 ; Seebens et al. 2022 ). Unlike agricultural introductions, unintentional introductions did not decrease in importance.
+
+This is surprising as many unintentionally introduced plants are transported through agricultural and farming activities, as contaminants of crop seed and forage (Kowarik and von der Lippe 2007 ).
+
+Therefore, the different temporal trends between agricultural and unintentional introductions suggest that unintentionally introduced plants have increasingly relied on gardening, global trade or tourism (Sanz-Elorza et al. 2009 ; Cerrato et al. 2023 ).
+
+For example, seeds can contaminate gardening flower mixtures and container-grown ornamentals (Conn et al. 2008 ; Cossu et al.
+
+2020 ; Ni and Hulme 2021 ); seeds can also be transported on tourist’s clothing and luggage, or onto containers carrying commodities (Ansong and Pickering 2014 ; Harrower et al. 2018 ; Verloove et al. 2020 ; Lucardi et al. 2020 ).
+
+Notably, urban areas tend to concentrate gardening activities, tourism, and traded commodities (Llurdés et al. 2009 ; Early et al. 2016 ; Riera et al. 2021 ).
+
+This suggests that unintentionally introduced plants have diversified and spatially expanded their introduction epicentres over time: from being introduced mostly in cropland areas, to being introduced both in cropland areas and in urban areas.
+
+Introduction pathways and the invaded niche Introduction pathways were related to differences in the invaded niche, primarily in terms of habitat type. Contrary to our expectations (González-Moreno et al. 2013 ; Riera et al.
+
+2021 ), plants introduced via gardening were not favoured over unintentionally introduced ones by urban land use (neither measured as habitat type nor as landcover). Instead, few gardening plants were favoured by urban and cropland land uses, probably due to three non-exclusive explanations.
+
+First, urban land use would concentrate introduction epicentres both for gardening and unintentionally introduced plants due to a combination of gardening, trade and tourism activities (Ansong and Pickering 2014 ; Cossu et al. 2020 ; Riera et al. 2021 ; Ni and Hulme 2021 ).
+
+Second, gardening plants could be less pre-adapted to anthropogenic disturbance than unintentionally introduced ones, due to a lower incidence of the ruderal adaptive strategy (Lambdon et al. 2008b ; Guo et al. 2022 ).
+
+Third, gardening plants could benefit less from dispersal by vehicles in urban environments than unintentionally introduced plants, because they tend to be taller and to have heavier seeds (von der Lippe and Kowarik 2012 ; Yang et al. 2021 ).
+
+In contrast, gardening plants were most invaders in some natural habitats: riparian, coastal and wetland habitats. This difference could relate to habitat-specific patterns in propagule pressure.
+
+Most propagules reaching riparian and wetland habitats could be from gardening plants, since urban areas are commonly located along waterways (Kühn et al. 2017 ), and urban areas concentrate gardening activities (Padayachee et al. 2017 ; Riera et al. 2021 ).
+
+Similarly, coastal habitats could receive a majority of non-native propagules from gardening plants, due to the popular use of perennial succulents for xeriscaping (Sanz-Elorza et al. 2004 ).
+
+While pathway-specific niche differences could also relate to differences in vegetation structure and composition across habitats, we lacked data on native vegetation to provide additional insights (Clotet et al. 2016 ).
+
+Contrary to our expectation, gardening plants became slightly more prevalent with increasing elevation than unintentionally introduced ones, agreeing with previous work (Thuiller et al. 2006 ; Chytrý et al. 2021 ).
+
+Gardening plants could invade high elevations due to human care: irrigation and protection from frost could allow gardening plants to send propagules into habitats surrounding gardens, even in the harsh environmental conditions that characterize high elevations (Mack 2000 ).
+
+In contrast, other studies have found that intentionally introduced plants became more scarce with increasing elevation (McDougall et al. 2011 ; Akatova and Akatov 2019 ), suggesting regional differences linked to different socioeconomic context.
+
+Interactions between elevation and selected environmental variables did not determine pathway-specific differences in the invaded niche, contrary to our hypothesis.
+
+In addition, pathways did not influence differences in topography including road proximity, nor historical landscape across the ten studied habitat types. This was contrary to previous work in our study area on forest edges and coastal habitat patches (González-Moreno et al. 2013 ; Basnou et al.
+
+2015 ), suggesting that pathway-specific niche differences do not necessarily generalize from particular habitats to a wider range of environments. Introduction pathways and invasion success Introduction pathways did not affect the invasion success of non-native plants.
+
+Rather, invasion success was affected by minimum residence time, without relevant interactions between minimum residence time and introduction pathways, contrary to our last hypothesis, and to previous work on area of occupancy in our study area (Riera et al. 2021 ).
+
+Our findings agree with studies that found no effect of pathways on area occupancy (Harris et al. 2007 ; Küster et al. 2008 ; Speek et al. 2011 ); nor on a metric that aggregated area of occupancy, climatic niche breadth and abundance (Carboni et al. 2016 ).
+
+These results suggest that economic use is not necessarily linked to the potential invasion success of the non-native plants.
+
+In fact, unintentionally introduced plants can have certain traits that help them to become invaders, compensating for the lack of human care associated with their introductions.
+
+These could include dispersal-related traits (von der Lippe and Kowarik 2012 ), wider native climatic niches, ruderal strategy (Lambdon et al. 2008b ; Guo et al. 2022 ), or human factors such as a diversification of introduction epicenters.
+
+In contrast to our results, other studies have found an effect of pathways on invasion success. Most studies on area of occupancy reported greater area for intentionally introduced plants (Akasaka et al. 2012 ; Pyšek et al. 2015 ; Guo et al. 2019 ; Egawa et al.
+
+2019 ), while we previously found the reverse pattern in our study area (Riera et al. 2021 ).
+
+Other works found that gardening plants reached the highest habitat range among intentionally introduced plants (Rojas-Sandoval and Ackerman 2021 ), while pathway-specific differences in niche breadth depended on which environmental variables defined the niche (Thuiller et al. 2012 ).
+
+Moreover, some works indicate that invasion status can vary the effect of introduction pathways on both area of occupancy and habitat range (Pyšek et al. 2011 ; Guo et al. 2022 ).
+
+Overall, the disparity of results suggests that the relationship between introduction pathways and invasion success could depend on the ecological and socioeconomic context of the study area, and also on methodological choices (e.g.
+
+how invasion success was measured, level of detail in the pathway classification). Minimum residence time had a positive effect on invasion success, in agreement with previous studies on area of occupancy (Wilson et al. 2007 ; Harris et al. 2007 ; Gassó et al. 2009 ; Speek et al.
+
+2011 ; Akasaka et al. 2012 ; Casado et al. 2018 ; Riera et al. 2021 ), habitat range (Essl et al. 2009 ; Pyšek et al. 2011 ; Lazzaro et al. 2020 ; Fristoe et al. 2021 ), and invaded climatic niche breadth (Banerjee et al. 2021 ).
+
+The positive effect of minimum residence time on area of occupancy and niche breadth suggests that non-native plants have diversified their niches over time, a process that was correlated with geographical spread over time.
+
+This expansion over time resulted in similar area of occupancy and niche breadth across pathways, and in pathway-specific nuances in the type of invaded environmental conditions.
+
+The key role of minimum residence time on invasion success probably relates to time as a proxy of many potentially relevant processes that modulate the species’ invasion success, which are not mutually exclusive.
+
+For example, residence time of an introduced species could include the effects of the change of the main introduction pathway over time: the longer a species was introduced, the more likely it is affected by the diversification and spatial expansion of introduction epicentres.
+
+Residence time could also be a proxy of accumulative propagule pressure: human activity has spread the propagules of old introductions for a longer time, compared to recent ones (Gassó et al. 2009 ).
+
+Further, residence time could be a proxy for the opportunity to evolve local adaptation (Colautti and Barrett 2013 ; Oduor et al. 2016 ) and adaptive phenotypic plasticity (Parker et al. 2003 ; Ross et al. 2009 ).
+
+Our results suggest that management strategies should attempt to track socioeconomic changes (Bradley et al. 2012 ).
+
+In particular, developing economies could monitor the market of ornamental plants, while taking into account that an increase in global trade, tourism and gardening could lead to a steady influx of unintentionally-introduced plants (Cerrato et al. 2023 ).
+
+(Our study corroborates the substantial importance of residence time on the success of non-native plants, and the importance of early and preventive management.
+
+The finding of similar invasion success between gardening and unintentional introductions, suggests that preventive management should have a broad scope, such as monitoring the market of ornamental plants and placing biosecurity measures (Hulme et al. 2008 ; Edney-Browne et al.
+
+2018 ; Bayón and Vilà 2019 ).
+
+Our results on pathway-specific differences in the invaded niche also suggest that preventing gardening introductions could be most beneficial to prevent invasion of natural habitats and high elevations, while preventing unintentional introductions could be most beneficial to prevent invasion of urban and cropland habitats.
+
+--------------------------------------------------------------------------------
+KEY QUANTITATIVE FINDINGS SUMMARY (for quick reference)
+--------------------------------------------------------------------------------
+
+Study system: Non-native flora of Catalonia (NE Spain)
+  - Total species: 1,025 non-native plant species (21 introduced via two pathways)
+  - Field sampling: 632 plots, 190 invaded plots, 77 neophyte species
+  - Barcelona province: 7,726 km2, 5.5 million inhabitants
+  - Time span: before 1500 to 2019 (four introduction periods)
+
+Pathway classification:
+  - Agriculture/forestry: plants for food/timber cultivation
+  - Gardening: ornamental or medicinal plants
+  - Unintentional: accidental introductions (seed contaminants, trade, tourism)
+
+H1 - Temporal trends (Chi-square p < 0.001; Cramer's V = 0.332):
+  - Agriculture/forestry: decreased 5-fold (50% before 1500 -> ~10% in 20th-21st century)
+  - Gardening: increased 3-fold (20% before 1500 -> 50% early 20th century -> 75% in 1985-2019)
+  - Gardening surpassed agriculture as main pathway starting after 1500
+  - Unintentional: fluctuated between 20-40% without clear trend
+  - Total introduced plants increased 5-fold over past millennium
+
+H2-H4 - Invaded niche (binomial GLMs, logit link):
+  - Full model without interactions: McFadden's pseudo-R2 = 0.141, AICc = 379.07
+  - Full model with interactions: McFadden's pseudo-R2 = 0.152, AICc = 384.30
+  - Habitat type effects:
+    * Natural habitats: gardening plants = 50% of invaders (vs 34% urban, 18% cropland)
+    * Urban vs cropland: Tukey pairwise contrast p = 0.06
+    * Natural vs urban/cropland: Tukey pairwise contrasts p < 0.05
+    * Wetlands, riparian, coastal: 54-65% gardening plants (16-32 invaded plots)
+  - Elevation effect (small but significant without interactions):
+    * Per 236 m increase (1 SD): proportion of gardening plants increased by 0.06
+  - Interactions between environmental variables did NOT influence pathway differences
+
+H5 - Invasion success (phylogenetic GLMs, log-transformed response):
+  Models without interactions:
+    * Area of occupancy: adjusted R2 = 0.173, AICc = 219.97, Pagel's lambda = 0
+    * Habitat range: adjusted R2 = 0.108, AICc = 158.48, Pagel's lambda = 0
+    * Invaded climatic niche breadth: adjusted R2 = 0.045, AICc = 268.29, Pagel's lambda = 0
+  Models with interactions:
+    * Area of occupancy: adjusted R2 = 0.218, AICc = 227.22, Pagel's lambda = 0
+    * Habitat range: adjusted R2 = 0.132, AICc = 168.03, Pagel's lambda = 0.502
+    * Invaded climatic niche breadth: adjusted R2 = 0.046, AICc = 279.93, Pagel's lambda = 0
+  Introduction pathways: NO significant effect on invasion success
+  Minimum residence time: POSITIVE effect on all three metrics
+    * Per additional 62 years (1 SD): area of occupancy +35%, habitat range +19%,
+      invaded climatic niche breadth +45%
+  Pathway x trait interactions: NOT significant
+
+Key methodological notes:
+  - Model selection via AICc (models within 6 units of best model retained)
+  - Full model averaging (coefficients shrunk to zero when variable absent)
+  - Numerical predictors standardized (mean 0, SD 1)
+  - Multicollinearity controlled via pairwise |r| > 0.75 removal, VIF < 5
+  - Quadratic terms included for cropland land-cover, distance to streams,
+    regressive changes, no changes (when improved AICc and 95% CI did not overlap 0)
+  - Analyses in R-Studio v4.2.0
+  - N = 81 for invasion success models (77 plants + 4 duplicated via two pathways)
+
+Main conclusions:
+  1. Gardening replaced agriculture as dominant pathway (after 1500), driven by
+     urbanization and socioeconomic shifts from food to ornamental plant use
+  2. Pathway differences in invaded niche relate primarily to habitat type (not
+     elevation or interactions): natural habitats favor gardening plants
+  3. Invasion success is driven by minimum residence time, NOT by introduction
+     pathway -- older introductions achieve greater occupancy and niche breadth
+  4. Over time, non-native plants diversified their niches regardless of pathway,
+     converging to similar occupancy and breadth across pathway categories

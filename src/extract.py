@@ -12,20 +12,46 @@ import json
 import os
 import glob
 
-DISCOVERYBENCH_ROOT = os.path.join("data", "discoverybench", "discoverybench", "real", "train")
+DISCOVERYBENCH_BASE = os.path.join("data", "discoverybench", "discoverybench", "real")
+DISCOVERYBENCH_ROOT = os.path.join(DISCOVERYBENCH_BASE, "train")  # backward compat
 
 # Maps our POC aliases to DiscoveryBench folder names and preferred metadata index
 TASK_ALIASES = {
+    # --- train split ---
     "biology_fish": {
         "folder": "evolution_freshwater_fish",
+        "split": "train",
         "metadata_index": 0,
     },
     "sociology_bmi": {
         "folder": "nls_bmi",
+        "split": "train",
         "metadata_index": 0,
     },
     "economics_immigration": {
         "folder": "immigration_offshoring_effect_on_employment",
+        "split": "train",
+        "metadata_index": 0,
+    },
+    # --- test split ---
+    "meta_regression": {
+        "folder": "meta_regression",
+        "split": "test",
+        "metadata_index": 0,
+    },
+    "archaeology": {
+        "folder": "archaeology",
+        "split": "test",
+        "metadata_index": 0,
+    },
+    "plants_pathways": {
+        "folder": "introduction_pathways_non-native_plants",
+        "split": "test",
+        "metadata_index": 0,
+    },
+    "worldbank_education": {
+        "folder": "worldbank_education_gdp",
+        "split": "test",
         "metadata_index": 0,
     },
 }
@@ -111,7 +137,11 @@ def main():
     args = parser.parse_args()
 
     if args.list:
-        list_all_tasks(args.discoverybench_root)
+        for split in ["train", "test"]:
+            split_root = os.path.join(DISCOVERYBENCH_BASE, split)
+            if os.path.isdir(split_root):
+                print(f"\n=== {split} ===")
+                list_all_tasks(split_root)
         return
 
     if not args.task or not args.output:
@@ -119,9 +149,10 @@ def main():
 
     alias_cfg = TASK_ALIASES[args.task]
     folder = alias_cfg["folder"]
+    split = alias_cfg.get("split", "train")
     meta_idx = args.metadata_index if args.metadata_index is not None else alias_cfg["metadata_index"]
 
-    folder_path = os.path.join(args.discoverybench_root, folder)
+    folder_path = os.path.join(DISCOVERYBENCH_BASE, split, folder)
     if not os.path.isdir(folder_path):
         print(f"ERROR: Folder not found: {folder_path}")
         print("Make sure you cloned DiscoveryBench:")

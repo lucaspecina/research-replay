@@ -1,0 +1,352 @@
+TITLE: Meta-regression to explain shrinkage and heterogeneity in large-scale replication projects
+
+AUTHORS:
+- Rachel Heyard (corresponding author; rachel.heyard@uzh.ch)
+- Leonhard Held
+Both at: Center for Reproducible Science, Epidemiology, Biostatistics and Prevention Institute, University of Zurich, Switzerland
+
+JOURNAL: PLOS ONE
+DOI: https://doi.org/10.1371/journal.pone.0327799
+Published: August 1, 2025
+Received: February 28, 2025; Accepted: June 22, 2025
+Funding: None (no specific funding received)
+Competing interests: None declared
+
+CODE/DATA: https://gitlab.uzh.ch/rachelheyard/heterogeneity_in_replication_projects
+Zenodo snapshot: https://doi.org/10.5281/zenodo.10590041
+Software: R packages metafor (additive models), gamlss (multiplicative models), ReplicationSuccess
+
+================================================================================
+ABSTRACT
+================================================================================
+
+The authors propose location-scale meta-regressions to investigate sources of effect size shrinkage and heterogeneity in large-scale replication projects. Shrinkage refers to the phenomenon where replication effect sizes are, on average, much smaller than original effect sizes. The methodology quantifies how characteristics of study design and research teams relate to reproducibility rates. The approach is applied to combined data from the Replication Project Psychology (RPP) and the Replication Project Experimental Economics (RPEE), totaling 87 study-pairs. The location component models shrinkage (mean difference), while the scale component models heterogeneity (variance of differences). Both multiplicative and additive heterogeneity frameworks are developed and compared.
+
+================================================================================
+INTRODUCTION
+================================================================================
+
+Large-scale replication projects (RPs) have revealed troubling reproducibility rates across scientific fields. The Replication Project Psychology (RPP, Open Science Collaboration, 2015) found that while 97% of 100 original studies reported significant results (p < 0.05), only 36% of replications found a significant result in the same direction. The Replication Project Experimental Economics (RPEE, Camerer et al., 2016) found all 18 original findings statistically significant, but only 61% of replications achieved significance.
+
+Beyond binary significance, a key finding is "shrinkage": replication effect sizes are substantially smaller than originals. This is pervasive across fields and projects. Between-study-pair heterogeneity -- variation in how much shrinkage occurs -- is typically ignored when summarizing results but may contain important information about what drives reproducibility.
+
+The authors argue that meta-analysis methodology from clinical research can be adapted to study replication projects. Specifically, they extend location-scale meta-regression (Viechtbauer & Lopez-Lopez, 2022) to the replication setting, where each "study" is now a study-pair (original + replication). The location component captures average shrinkage, while the scale component captures heterogeneity in shrinkage. Covariates can be included in both components to identify factors associated with more/less shrinkage and more/less heterogeneity.
+
+Prior work (Pawel & Held, 2020) developed models accounting for shrinkage and within-study heterogeneity. This paper extends that work by incorporating covariates into both the location and scale components.
+
+================================================================================
+DATA DESCRIPTION
+================================================================================
+
+SOURCE DATASETS:
+- Replication Project Psychology (RPP): Open Science Collaboration, 2015
+  - 100 original studies, 73 had computable Fisher z-transformed correlations and SEs
+  - 3 non-significant originals excluded, 1 study with excessive missing covariates excluded
+  - Final: 69 study-pairs from RPP
+- Replication Project Experimental Economics (RPEE): Camerer et al., 2016
+  - 18 original-replication study-pairs, all included
+  - Final: 18 study-pairs from RPEE
+
+TOTAL SAMPLE: 87 original-replication study-pairs
+
+OUTCOME VARIABLE:
+- Difference in effect sizes: Delta_i = theta_O,i - theta_R,i
+  (original minus replication, so positive = shrinkage)
+- Effect sizes standardized to Fisher z-transformed correlation coefficients
+- Standard errors computed for each study-pair
+
+KEY STATISTICS:
+- 85.1% of study-pairs showed positive differences (shrinkage: original > replication)
+- Overall Q-test for heterogeneity: p < 0.0001 (highly significant)
+- Q = sum of squared standardized differences, follows chi-squared(n) under H0 of homogeneity
+
+CANDIDATE COVARIATES (14 total):
+
+Continuous (8-9):
+1. Original standard error (SE of original effect estimate) -- always included as "structural"
+2. Original paper length (number of pages from citation info)
+3. Log-transformed citation count of original study
+4. Number of authors, original study
+5. Number of authors, replication study
+6. Share of male authors, original study
+7. Share of male authors, replication study
+8. Log-transformed average citations per author, original study
+9. Log-transformed average citations per author, replication study
+
+Categorical (5):
+10. Discipline (Cognitive Sciences [reference], Economics, Social Sciences)
+11. Highest author seniority, original team
+12. Highest author seniority, replication team
+13. Same language (binary: original and replication experiments conducted in same language)
+14. Same country (binary: original and replication in same country)
+15. Same subject type (binary: same type of subjects in original and replication)
+
+Note: Some covariates are correlated (e.g., same language vs. same country), creating potential multicollinearity.
+
+================================================================================
+METHODOLOGY: LOCATION-SCALE META-REGRESSION
+================================================================================
+
+STEP 1: STANDARDIZED DIFFERENCES
+
+For each study-pair i, define:
+  delta_i = Delta_i / sqrt(sigma_O,i^2 + sigma_R,i^2)
+
+Under H0 (no shrinkage, no heterogeneity), delta_i ~ N(0,1).
+Individual Q_i = delta_i^2 ~ chi-squared(1).
+Overall Q = sum(Q_i) ~ chi-squared(n) under H0.
+
+STEP 2: HETEROGENEITY MODELS (no covariates)
+
+Multiplicative model (Eq. 3):
+  Delta_i ~ N(Delta, sigma^2_Delta,i * phi)
+  where phi >= 1 is the overdispersion parameter
+  phi = 1 means no excess heterogeneity
+
+Additive model (Eq. 4):
+  Delta_i ~ N(Delta, sigma^2_Delta,i + tau^2)
+  where tau^2 >= 0 is the between-study-pair variance
+  This is the standard random-effects model
+
+STEP 3: LOCATION-ONLY META-REGRESSION
+
+Multiplicative (Eq. 5):
+  Delta_i ~ N(beta_0 + sum(beta_j * x_ij), sigma^2_Delta,i * phi_tilde)
+  Covariates x_ij explain shrinkage; residual heterogeneity phi_tilde
+
+Additive (Eq. 6):
+  Delta_i ~ N(beta'_0 + sum(beta'_j * x_ij), sigma^2_Delta,i + tau_tilde^2)
+  Covariates x_ij explain shrinkage; residual heterogeneity tau_tilde^2
+
+STEP 4: LOCATION-SCALE META-REGRESSION (full model)
+
+Location component models the mean (shrinkage):
+  E[Delta_i] = beta_0 + sum(beta_j * x_ij)
+
+Scale component models the heterogeneity via log link:
+  Multiplicative: ln(phi_tilde_i) = alpha_0 + sum(alpha_k * z_ik)
+  Additive: ln(tau_tilde^2_i) = alpha'_0 + sum(alpha'_k * z_ik)
+
+Covariates x_ij (location) and z_ik (scale) can overlap or differ.
+
+MODEL SELECTION:
+- AIC-based stepwise selection with REML estimation
+- Forward selection starting from original SE (always included)
+- Evaluate all subsets of remaining covariates
+- Models ranked by AIC; top 10 reported in Tables 2 and 3
+
+================================================================================
+RESULTS
+================================================================================
+
+--- TABLE 1: UNADJUSTED AND LOCATION-ONLY MODELS ---
+
+UNADJUSTED MULTIPLICATIVE MODEL:
+  Intercept: 0.16 (95% CI: 0.11 to 0.20)
+  phi = 2.004
+  Interpretation: average shrinkage of 0.16 Fisher z units; substantial overdispersion
+
+UNADJUSTED ADDITIVE MODEL:
+  Intercept: 0.21 (95% CI: 0.16 to 0.26)
+  tau^2 = 0.021
+  95% prediction interval for new study-pair: -0.08 to 0.50
+  Interpretation: wide prediction interval indicates high heterogeneity
+
+LOCATION-ONLY WITH ORIGINAL SE (multiplicative):
+  Intercept: (adjusted)
+  Original SE: 1.60 (95% CI: 0.85 to 2.35)
+  Residual phi_tilde = 1.682
+  Interpretation: less precise originals (higher SE) show more shrinkage
+
+LOCATION-ONLY WITH ORIGINAL SE (additive):
+  Original SE: 1.11 (95% CI: 0.36 to 1.86)
+  Residual tau_tilde^2 = 0.017
+
+FINAL LOCATION-ONLY MULTIPLICATIVE MODEL (7 additional covariates beyond SE):
+  Intercept: -0.29 (95% CI: -0.56 to -0.02)
+  Original SE: 1.09 (95% CI: 0.35 to 1.82)
+  Number of authors (O): 0.03 (95% CI: 0.00 to 0.07)
+  Discipline Economics: -0.28 (95% CI: -0.46 to -0.10)
+  Discipline Social: -0.02 (95% CI: -0.13 to 0.09)
+  Number of pages (O): 0.01 (95% CI: 0.00 to 0.01)
+  O&R same language: 0.08 (95% CI: -0.01 to 0.18)
+  Share male authors (O): -0.17 (95% CI: -0.31 to -0.04)
+  Avg author citations (log, R): 0.03 (95% CI: 0.00 to 0.06)
+  Citations (log, O): 0.03 (95% CI: -0.01 to 0.07)
+  Residual phi_tilde = 1.212
+
+FINAL LOCATION-ONLY ADDITIVE MODEL (2 additional covariates beyond SE):
+  Intercept: 0.09 (95% CI: -0.11 to 0.28)
+  Original SE: 1.07 (95% CI: 0.35 to 1.79)
+  Number of authors (O): 0.04 (95% CI: 0.00 to 0.08)
+  Share male authors (O): -0.19 (95% CI: -0.34 to -0.04)
+  Residual tau_tilde^2 = 0.012
+
+--- TABLE 2: TOP 10 MULTIPLICATIVE LOCATION-SCALE MODELS BY AIC ---
+
+Model 1 (AIC = -11.09): Location: SE, NbAuth(O), Discipline, SameLang, MaleShare(O), AvgCit(R), Cit(O). Scale: SameLang, Cit(O).
+Model 2 (AIC = -10.90): Location: SE, NbAuth(O), Discipline, SameLang, MaleShare(O). Scale: SameLang, Cit(O).
+Model 3 (AIC = -10.67): Location: SE, NbAuth(O), Discipline, SameLang, MaleShare(O), AvgCit(R). Scale: SameLang, Cit(O).
+Model 4 (AIC = -9.98): Same as Model 1 but with different configuration.
+Model 5 (AIC = -9.93): Location: SE, NbAuth(O), Discipline, SameLang, MaleShare(O), Cit(O). Scale: SameLang, Cit(O).
+Model 6 (AIC = -9.92): Location: SE, NbAuth(O), Discipline, NbPages(O), SameLang, MaleShare(O), AvgCit(R), Cit(O). Scale: SameLang, Cit(O).
+Models 7-10 (AIC: -9.79 to -9.43): Variations with subsets of the above covariates.
+
+--- TABLE 3: TOP 10 ADDITIVE LOCATION-SCALE MODELS BY AIC ---
+
+Model 1 (AIC = 2.25): Location: SE, NbAuth(O), MaleShare(O). Scale: SE.
+Model 2 (AIC = 4.06): Location: SE, NbAuth(O), MaleShare(O). Scale: SE, NbAuth(O).
+Model 3 (AIC = 4.37): Location: SE, NbAuth(O), MaleShare(O). Scale: (none).
+Models 4-10 (AIC: 5.01 to 8.09): Variations with fewer location or different scale covariates.
+
+--- TABLE 4: FINAL LOCATION-SCALE META-REGRESSION MODELS (BEST BY AIC) ---
+
+MULTIPLICATIVE MODEL (AIC = -11.09):
+
+  Location coefficients (predicting shrinkage):
+    Intercept:                        -0.24 (95% CI: -0.50 to  0.02)
+    Original standard error:           0.78 (95% CI:  0.19 to  1.37)
+    Nb authors (O):                    0.03 (95% CI:  0.01 to  0.06)
+    Discipline Economics:             -0.12 (95% CI: -0.24 to  0.00)
+    Discipline Social:                 0.07 (95% CI: -0.02 to  0.16)
+    O&R same language:                 0.12 (95% CI:  0.02 to  0.21)
+    Share male authors (O):           -0.14 (95% CI: -0.25 to -0.03)
+    Avg author citations (log, R):     0.02 (95% CI:  0.00 to  0.04)
+    Citations (log, O):                0.03 (95% CI: -0.01 to  0.06)
+
+  Scale coefficients (predicting log overdispersion ln(phi)):
+    Intercept:                         1.51 (95% CI:  0.82 to  2.20)
+    O&R same language:                -0.44 (95% CI: -0.76 to -0.12)
+    Citations (log, O):               -0.31 (95% CI: -0.47 to -0.14)
+
+  Interpretation of scale:
+    Same language: phi = exp(1.51 - 0.44) = ~2.9 vs different language: phi = exp(1.51) = ~4.5
+    BUT relative to study-pair-specific variance, same language reduces heterogeneity
+    Effective: same language -> phi_tilde ~ 1.0 (no excess); different language -> phi_tilde ~ 1.29
+
+ADDITIVE MODEL (AIC = 2.25):
+
+  Location coefficients:
+    Intercept:                         0.09 (95% CI: -0.10 to  0.29)
+    Original standard error:           1.03 (95% CI:  0.29 to  1.77)
+    Nb authors (O):                    0.04 (95% CI:  0.00 to  0.08)
+    Share male authors (O):           -0.18 (95% CI: -0.33 to -0.04)
+
+  Scale coefficients (predicting log between-study variance ln(tau^2)):
+    Intercept:                        -2.02 (95% CI: -4.89 to  0.86)
+    Original standard error:         -26.33 (95% CI: -59.31 to  6.66)
+
+  Interpretation of scale:
+    Less precise originals (SE ~ 0.58): tau^2 ~ 0 (no heterogeneity)
+    More precise originals (SE ~ 0.04): tau^2 ~ 0.05 (substantial heterogeneity)
+
+--- HETEROGENEITY REDUCTION SUMMARY ---
+
+                          Unadjusted    Location-only    Location-Scale
+Multiplicative (phi):       2.004          1.682            1.212*
+Additive (tau^2):           0.021          0.017            0.012*
+
+* Location-scale models reduce heterogeneity by modeling it with covariates in the scale component, not just absorbing it into the residual.
+
+================================================================================
+KEY FINDINGS AND INTERPRETATIONS
+================================================================================
+
+PREDICTORS OF MORE SHRINKAGE (positive location coefficients):
+1. Higher original SE (less precise originals shrink more): coeff ~0.78-1.09
+   - Interpretation: imprecise originals likely inflated by publication bias
+2. More authors on original study: coeff ~0.03-0.04 per author
+   - Possibly reflects multi-site originals or publication pressure dynamics
+3. Same language experiments: coeff ~0.08-0.12
+   - Counterintuitive: same language increases shrinkage but decreases heterogeneity
+4. Higher avg citations per replication author: coeff ~0.02-0.03
+
+PREDICTORS OF LESS SHRINKAGE (negative location coefficients):
+1. Economics discipline vs. Cognitive Sciences: coeff -0.12 to -0.28
+   - Economics replications show less shrinkage than cognitive science
+   - Social sciences similar to cognitive sciences (coeff ~-0.02 to 0.07, not significant)
+2. Higher share of male authors on original: coeff -0.14 to -0.19
+   - Mechanism unclear; authors do not provide a causal explanation
+3. Longer original papers (pages): coeff ~0.01 per page (small, location-only model)
+
+PREDICTORS OF HETEROGENEITY (scale component):
+Multiplicative model:
+  - Same language REDUCES heterogeneity: scale coeff -0.44
+  - More cited originals REDUCE heterogeneity: scale coeff -0.31
+Additive model:
+  - More precise originals (lower SE) INCREASE heterogeneity: scale coeff -26.33 for SE
+    (negative coefficient on SE means lower SE -> higher tau^2 via log link)
+
+PARADOX OF SAME LANGUAGE:
+  Study-pairs where experiments were conducted in the same language show:
+  - MORE shrinkage (location: +0.12) -- originals shrink more on replication
+  - LESS heterogeneity (scale: -0.44) -- but the shrinkage is more consistent/predictable
+  This is interpretable: same-language pairs may be more comparable, leading to consistent
+  (but real) shrinkage, while cross-language pairs add noise from cultural/linguistic factors.
+
+ECONOMICS VS. COGNITIVE SCIENCE:
+  Economics studies show significantly less shrinkage (-0.12 to -0.28 depending on model).
+  This aligns with RPEE having a 61% replication success rate vs. RPP's 36%.
+  Reference category is Cognitive Sciences.
+
+================================================================================
+DISCUSSION
+================================================================================
+
+The authors argue that location-scale meta-regression provides valuable insights by separately modeling shrinkage (location) and heterogeneity (scale). This goes beyond binary "did it replicate?" assessments toward understanding WHY some studies replicate better than others.
+
+Key discussion points:
+
+1. CONTEXTUALIZING REPRODUCIBILITY: Rather than reporting a single replication success rate (36% or 61%), the methodology identifies which study characteristics predict better or worse reproducibility. This enables field-specific and design-specific expectations.
+
+2. ORIGINAL SE AS KEY PREDICTOR: The strongest predictor of shrinkage is the original study's standard error. Less precise originals show more shrinkage, consistent with publication bias inflating imprecise estimates. This has been noted in prior work but is confirmed here with covariate adjustment.
+
+3. OPPOSITE EFFECTS POSSIBLE: The same-language finding (more shrinkage, less heterogeneity) shows that covariates can have opposite effects on location vs. scale. This justifies the location-scale framework over simpler approaches.
+
+4. LIMITATIONS:
+   - Sample size is small (87 study-pairs) -- results warrant follow-up
+   - Covariate selection was limited to conveniently available information, not theoretically motivated
+   - AIC-based model selection may overfit; BIC or cross-validation alternatives explored in appendix (more parsimonious models)
+   - Observational design: associations are not causal
+   - Multicollinearity suspected between some covariates (same language vs. same country)
+   - Only two replication projects combined; results may not generalize
+
+5. FUTURE DIRECTIONS:
+   - Routine collection of bias-related information in future replication projects
+   - Application to RCT emulation comparisons (observational vs. experimental studies)
+   - Better explanatory variables, particularly data on questionable research practices
+   - Alternative model selection criteria
+
+================================================================================
+FIGURES
+================================================================================
+
+Figure 1: Ordered differences (Delta_i) for all 87 study-pairs with 95% CIs.
+  Shows pervasive positive differences (shrinkage). Most CIs overlap zero but the
+  pattern is clearly shifted positive.
+
+Figure 2: Left panel - distribution of standardized differences vs. standard normal
+  (shifted positive, confirming shrinkage). Right panel - Q-test p-values from
+  individual study-pairs (excess of small p-values indicates heterogeneity beyond
+  what sampling variability alone would produce).
+
+Figure 3: AIC values for best models at each number of covariates. Minimum AIC at
+  7 additional covariates (multiplicative) and 2 additional covariates (additive).
+
+================================================================================
+RELEVANCE FOR RESEARCH DECISION-MAKING
+================================================================================
+
+This paper is useful for understanding:
+1. How to set up a meta-regression when the unit of analysis is a PAIR of studies
+2. How to separately model the mean effect (location) and variance (scale)
+3. What study-level characteristics predict replication success/failure
+4. The difference between multiplicative and additive heterogeneity models
+5. How to interpret covariates that have opposite effects on location vs. scale
+
+For a data scientist approaching replication data:
+- The "obvious" approach (just test if replications are significant) misses the nuance
+- Shrinkage and heterogeneity are SEPARATE phenomena that need separate modeling
+- Original study precision (SE) is the most important structural predictor
+- Field/discipline matters: economics replicates better than cognitive psychology
+- The location-scale framework is implemented in R packages metafor and gamlss

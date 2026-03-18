@@ -1,0 +1,1294 @@
+105
+Chapter 5
+Patterns of Socio-economic Cultural 
+Transformations in Neolithic and Bronze 
+Age Societies in the Central Northern 
+European Plain
+Human-Environmental Interaction Concerning 
+Bourdieu’s Forms of Capital
+Jan Piet Brozio, Jutta Kneisel, Stefanie Schaefer-Di Maida, Julian Laabs, 
+Ingo Feeser, Artur Ribeiro, and Sebastian Schultrich
+5.1  Introduction
+There are distinct advantages in writing and researching as an ensemble of scholars 
+in the field of archaeology, especially when they include people of distinct genders, 
+age-groups, and cultural backgrounds, who tend to engage with different chrono­
+logical phases and different geographical areas. Furthermore, as an ensemble group, 
+our background incorporates different sets of skills developed in archaeology, such 
+as those furnished by the natural scientific disciplines and the humanities, allowing 
+us to address material culture, social theory and the palaeoenvironment. When 
+observing an object, each researcher will have a different train of thought, because 
+each one observes the object according to their unique frames of reference. The 
+observations on the object, its qualities and characteristics, can be quite varied 
+because they depend on the researcher’s community of practice. Nevertheless, 
+J. P. Brozio
+Formerly, Institute of Prehistoric and Protohistoric Archaeology, Kiel University, 
+Kiel, Germany
+e-mail: jpbrozio@ufg.uni-kiel.de 
+J. Kneisel (*) · S. Schaefer-Di Maida · I. Feeser · A. Ribeiro · S. Schultrich
+Institute of Prehistoric and Protohistoric Archaeology, Kiel University, Kiel, Germany
+e-mail: jutta.kneisel@ufg.uni-kiel.de; sschaefer@ufg.uni-kiel.de; 
+ifeeser@ufg.uni-kiel.de; aribeiro@sfb1266.uni-kiel.de; sschultrich@sfb1266.uni-kiel.de 
+J. Laabs 
+Department of History, Leipzig University, Leipzig, Germany
+e-mail: julian.laabs@uni-leipzig.de 
+© The Author(s) 2024
+J. Müller et al. (eds.), Perspectives on Socio-environmental Transformations in 
+Ancient Europe, Quantitative Archaeology and Archaeological Modelling, 
+https://doi.org/10.1007/978-3-031-53314-3_5
+106
+despite the variety of viewpoints, all this knowledge remains complementary and 
+can be brought together meaningfully.
+The CRC 1266 is a research group that unites many scholars under a constella­
+tion of practices, where contexts such as the one described above are directed 
+towards understanding different transformation processes, which are researched at 
+different scales of interaction, and which reveal meaningful patterns relevant to our 
+understanding of the past. Ultimately, the aim of the CRC 1266 is to compare, test, 
+and analyse transformation processes within a special time frame in Europe and 
+beyond (Müller & Kirleis, 2019). In order to enable a differentiated analysis, an 
+intensive exchange between the involved CRC 1266 subprojects researching 
+Northern Germany and the creation of a comparable data basis was required. 
+However, this uniform recording of the material basis did not exist before and was 
+compiled in course of the framework of the CRC 1266.
+­
+2
+5.1
+­
+­
+­
+­
+The practice of discerning patterns that emerge from the inductive analysis of 
+data is usually restricted to a single period (Allentoft et al., 2022; Bunting et al., 
+2022), or even just a short sub-phase; it is rare to see cross-cultural comparisons of 
+patterns that extend beyond a single chronological phase (Kohler & Smith, 2018). 
+This is because the material culture, the architecture, the environment, etc. of past 
+societies could have had very different meanings depending on the period and loca­
+tion (Brozio et al., 2019; Kneisel et al., 2019). What might have been a fairly cheap 
+commodity for one social group might have also been a very luxurious and rare 
+commodity for another group. To address the issue, we compare diachronic data by 
+adapting Bourdieu’s (1986) forms of capital (economic, symbolic, social, cultural) 
+and applying them to our Neolithic and Bronze Age data. Regardless of the mate­
+rial, the four forms of Bourdieu’s capital allow for an attribution of discrete artefact 
+groups to a socio-economic sphere, or in other words, the data we use serve as a 
+proxy to determining what type of capital it could have represented to our past infor­
+mants. In addition to our material culture, we also include proxies for demographic 
+development for a period of c. 3500 years.
+J. P. Brozio et al.
+107
+ 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+108
+5.2  Theoretical Approach
+When comparing proxies derived from material culture, which represent societal 
+and economic characteristics of a society over a time-span of 3500 years and over 
+an area of approximately 15,500 m2 the question arises: is it possible to compare 
+things that might have had different meanings, significances, and/or different 
+purposes?
+This issue was discussed in Igor Kopytoff’s (1986) concept of the cultural biog­
+raphy of things. In the social analysis of objects Kopytoff followed the Marxian 
+perspective, which viewed objects as imbued with use-value and exchange-value 
+(Kopytoff, 1986, pp.  70, 83), whereas Arjun Appadurai distinguished things as 
+products and non-products, thus defining things as exchangeable (Appadurai, 1986, 
+pp.  12–17). This perspective helped Kopytoff in understanding the life-story of 
+objects. According to him, every product has a general character, because the prod­
+uct has a certain value and is comparable with other products, as exchange value for 
+other products or money. In contrast, there are things that are not exchangeable with 
+others because of their singular character. As he argued, both categories – products/
+non-products – are ideal forms that do not exist, because every product has a poten­
+tial for singularisation and exchange; their evaluation depends entirely on the social 
+context (Kopytoff, 1986, p. 73). A product can be a product or a non-product both 
+diachronically and synchronically. The order of transformation and also the syn­
+chronous meaning as product and non-product accumulate to an object biography. 
+For an example, Kopytoff describes the biography of a Suku hut in Zaire, which 
+during its lifespan of circa 10 years underwent a transformation from a house for a 
+couple or a woman with children to a guest house or a house for a widow. After that, 
+the hut was used as a meeting place for teenagers, then as a kitchen and then as 
+stable for goats or chickens. Finally, termites took over the hut and the building col­
+lapsed (Kopytoff, 1986, p. 67). An object can thus undergo a unique biographic 
+process that transforms it from general commodity to a singular object.
+The concept of object biography has been used to some degree in archaeology 
+(cf. Gerritsen, 2009; Gosden & Marshall, 1999; Joy, 2009; Jung, 2015) although not 
+always according to the framework designed by Kopytoff. The challenge raised by 
+Kopytoff’s biography concerns whether it is possible to compare different values of 
+things from vastly different times and places.
+According to Polanyi (1944), such a comparison only works if one takes the 
+emic perspective. Due to the lack of contemporary witnesses from the Neolithic and 
+the Bronze Age, we decided to turn to the epistemological process to assess value 
+and relevance of material culture in societal context as established by Bourdieu 
+(1986). A clear and brief summary of this process is provided by Bernbeck (2009), 
+who explains Bourdieu’s process in three steps as follows: A first approach, he says, 
+is to engage intensively with the emic view and the basic non-dialogical structures 
+of the research subject, which  – as mentioned  – is of course problematic for 
+J. P. Brozio et al.
+109
+prehistoric studies. A second step, according to his description, was to break away 
+from the paradigm of understanding and to analyse it from the objective etic per­
+spective – “[…] the traditional cold-blooded scientific analysis […]” (our transla­
+tion: Bernbeck, 2009, p. 2) – thirdly and finally, the subjectivity of this objectivist 
+perspective had to be reflexively related to the “object” of investigation.
+Bourdieu’s (1986, pp.  241–258) division into economic, social, cultural and 
+symbolic capital, which places people in social space, i.e. describes the relation­
+ships between people or their positions. With this division of the concept capital into 
+different representations, he provides a suitable theoretical model which can be 
+used to categorise archaeological material accordingly (Kadrow & Müller, 2019). 
+Economic capital represents all forms of material wealth (e.g. income, movable 
+assets, land ownership; Bourdieu, 1986, pp. 17–21). Archaeologically, we could 
+recognise economic capital in the form of accumulation of finds, grave goods, and/
+or surplus production. Social capital comprises social networks (Bourdieu, 1986, 
+pp. 21–24). Here, the relationships between people or groups of people can, for 
+example, order the common possession of resources. This requires a willingness to 
+cooperate, which we find reflected in the archaeological evidence, for example, in 
+the form of communal house and grave building activities. Bourdieu divides cul­
+tural capital into three forms: incorporated, objectified and institutionalised. 
+Incorporated cultural capital is – as the name already suggests – body-bound and is 
+learned or instilled as people grow up, and modified in the course of their education 
+(Bourdieu, 1986, pp. 17–19). It is, for example, taste, knowledge or personal behav­
+iour. Objectified cultural capital consists of cultural goods (Bourdieu, 1986, 
+pp. 19–20). Transferred to archaeology, these can be artefacts, especially everyday 
+objects, made of pottery or flint. Institutionalised cultural capital comprises the 
+titles one acquires during one’s life (Bourdieu, 1986, pp. 20–21). For prehistory, we 
+could speak of social functions that included, for example, decision-making pro­
+cesses or the regulation of resource distribution. Symbolic capital refers to one’s 
+rank in a society, which may not necessarily have been hierarchical in prehistory. 
+This can show itself, for example, in the form of prestige goods or given symbology, 
+but also in who received a special grave and who did not.
+5.3  Material and Methods
+The process of assigning artefact groups to the forms of capital proved to be diffi­
+cult, as they are interpreted and attributed differently for the Neolithic and Bronze 
+Age because of different traditions of research. The challenge was to find common 
+ground where different artefacts or different materials allow the same statement 
+about the society in question.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+110
+5.3.1  Defining Socio-cultural Spheres
+According to Bourdieu (1986), all the mentioned forms of capital are interdepen­
+dent and can therefore allow a series of different scenarios. Thus, no standard 
+scheme exists that could explain processes and reactions according to capital forms 
+and societal behaviour. For the comparison of the Neolithic and Bronze Age mate­
+rial, we determined from our expert perspectives which artefacts and features can be 
+assigned to each form of capital. We have used this classification as a basis for our 
+comparisons. For example, not all periods within our time perspective have axes or 
+swords. Another example is that the materials used for artefacts are different (e.g. 
+stone, bronze). However, in the case of swords and axes we see both of them as an 
+expression of a certain social role and thus conceptualise them as traces of such 
+across the epochs.
+5.3.1.1  Material – Monumentality, Artefact Studies and Domestic Sites
+The reconstruction of the intensity of monument-building activity through the 
+Neolithic is based on available data from primary burials in single mounds and the 
+oldest assemblages in megaliths or non-megalithic long barrows. An interpolated 
+relative index of the construction of new monuments is derived through the described 
+aoristic evaluation according to the detailed chronology. Values from the relative 
+index obtained in this way can be extrapolated to the number of monuments known 
+from the Archäologische Landesaufnahme Schleswig-Holstein (Archaeological 
+State Survey) that, in contrast to other areas of Germany, covered nearly the whole 
+southern Cimbrian Peninsula with fieldwalking and other types of surveys (Ahrens, 
+1966; Hingst, 1959; Kersten, 1951, 1981; Kersten & Schwantes, 1939). Known 
+undated burial mounds are differentiated according to the known (through excava­
+tions) relative temporal distribution of mounds to the different phases in periods 
+between the Neolithic and the Middle Ages, a procedure that Holst (2013) also suc­
+cessfully used for Denmark. Thus, these monuments with more general dating cat­
+egories were redistributed to the main periods according to the relative frequency of 
+dated records within the main periods (Brozio et al., 2019; Holst, 2013, pp. 42–44). 
+The distribution of megalithic tombs in their temporal dimension is reported for the 
+southern Cimbrian Peninsula (Hoika, 1999; Lorenz, 2012).
+Complementary evidence of economic, as well as social, aspects of the Neolithic 
+societies is provided by the character of artefact types and categories, which are 
+linked to specific purposes. These objects of material culture are associated via their 
+contexts and functions to utilitarian uses within economic production and/or with 
+non-utilitarian meaning within the social and ritual sphere of the societies. Thus, the 
+different quantity and sequences of artefact categories provide information about 
+economic and social aspects of societies. Stone axes (Schultrich, 2018; Zápotocký, 
+1992), stone adzes (Breske, 2017), metal objects (Klassen, 2004; Schultrich, 2019), 
+flint daggers (Kühn, 1979; Willroth, 2002) and jewellery (Woltermann, 2016) in 
+different find contexts like burials, hoards (Rech, 1979) or single finds (Rassmann, 
+J. P. Brozio et al.
+111
+1993) are available as data sets for such an analysis (Brozio et al., 2019). Information 
+on settlements was compiled from different sources (Brozio, 2016; Hage, 2016; 
+Schultrich, 2019; Steffens, 2009). In the Bronze Age, new categories are added 
+(swords, daggers), in other categories the material changes from stone to copper and 
+bronze (axes). Stone tools become fewer and eventually disappear altogether. The 
+catalogues “Die Funde der älteren Bronzezeit des nordischen Kreises” contain 
+extensive find material for the Older Bronze Age (Aner & Kersten, 1978, 1979, 
+1991, 1993; Aner et al., 2005, 2011, 2017). For the younger Bronze Age, a complete 
+record of all finds up to 1993 is available (Schmidt, 1993). New excavated settle­
+ment sites were also added (Donat, 2018; Meier, 2013).
+5.3.1.2  Methods – Aoristic Method/PCR and Diversity Index
+‘One way to engage more effectively with temporal uncertainty is for us to make the 
+best of all our available temporal information, however fuzzy’ (Bevan et al., 2013). 
+The ‘aoristic’ statistical method is used for a better comparison between quantita­
+tive data, for example from pollen diagrams or sum-calibrations, and typochrono­
+logical classification of archaeological data. The aoristic method creates a relative 
+frequency graph based on different dating accuracies – such as ‘Bronze Age’, ‘Older 
+Bronze Age’, ‘Period I-II’, ‘Period Ib’ and 14C dates (Mischka, 2004; Ratcliffe, 
+2000). In order to grant comparability of the data, the different dating ranges are 
+divided and uniformly plotted in 100-year steps on the time scale. A dating such as 
+Late Bronze Age (1100–500 BCE) is divided by n/6, a dating to Period IV early 
+(1100–1000) is divided by n/1 and plotted on the timeline per 100 years. The sum 
+of all artefact frequencies provides the aoristically calculated frequency curve. 
+While this reflects the different timespans and dating accuracies, it allows for a 
+substantial comparison with other data (Brozio et al., 2019; Kneisel et al., 2019). A 
+comparison between Bronze Age and Neolithic pottery makes little sense, as the 
+result would only show the differences between the periods. For this reason, we 
+decided to use the diversity of shapes and decorations for a comparison. Diversity 
+indices are known from biology and can, for example, describe the species diversity 
+of a region or area. The Shannon–Wiener index is a mathematical quantity used in 
+biology to describe diversity or biodiversity (Spellerberg & Fedor, 2003). The index 
+describes the diversity in the data under consideration, taking into account both the 
+number of different data categories (types) and the abundance (number of pots/
+sherds per type). Since, for example, the decoration of vessels – such as knobs, 
+handles or vessel roughness – is a free decision of the potters that does not contrib­
+ute to the functionality of the vessels, it can be used as a measure of creativity, 
+individuality or simply diversity in the material. The same applies to the shape. 
+Shape follows style, taste and fashion, but also functionality. A high diversity of 
+forms indicates a specialised function (bowl, dish, plate, jug) or the absence of any 
+norm. However, the latter is not possible within a society, as shapes are adopted 
+unconsciously.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+112
+As the aoristic time series summarise different values, mostly counts but also 
+floor area and the Shanon–Wiener Index, they were standardised statistically as 
+z-scores for better comparison.
+5.3.1.3  Characterising Social Cultural Spheres – Forms of Capital
+­
+5.1
+Symbolic Capital
+This form of capital encompasses the social rank of an individual in society and is 
+acquired through recognition and is presented to the outside world. The battle axes 
+of the Neolithic and daggers and swords of the Bronze Age represent a social rank 
+and a certain prestige of the buried person. Also, house sizes, here given in m2, can 
+be understood as a sign of certain social importance of the inhabitants presented to 
+the community and outside group. Although, house sizes could be understood as 
+economic capital, as Bourdieu (1986) states, symbolic capital is indicated by eco­
+nomic capital. To assign house size to the realm of economic capital would neglect 
+the symbolic meaning of houses, and would overemphasise economic capital within 
+the capital structure. Houses as symbolic capital of small groups are known from 
+various ethnographic parallels (Wunderlich, 2019). Here, we have assigned houses 
+to symbolic capital in the sense of projection of internal socio-economic realities 
+within a community.
+Table 5.1  Forms of capital and assigned archaeological contexts
+Form of 
+capital
+Archaeological contexts
+Symbolic
+Hatchets (‘battle axes’) and swords
+Daggers
+House sizes
+Social
+Copper (Neolithic) and gold (Bronze Age)
+Amber
+Number of monuments
+Cultural
+Diversity in pottery shapes
+Diversity in pottery decorations
+Treatment of the dead (single vs. collective burials; inhumation vs. cremation) – 
+qualitative proxy
+Economic
+Hoards
+Sickles
+Axes
+Monument size
+J. P. Brozio et al.
+113
+Social Capital
+Relationships between people and groups, access to networks and the intensity of 
+these networks make up social capital. Archaeologically, we can identify resources 
+that are not locally available. Bronze was omitted here because there is no compa­
+rable equivalent in the Neolithic. Instead, Neolithic copper items and Bronze Age 
+gold finds were combined in one proxy. Both materials have to be imported from 
+afar and hint to the embeddedness of supra-regional networks providing such 
+objects/resources. Amber serves as an indicator of reduced network intensity when 
+it is present. When it is absent – and occurs massively in a distant region at the same 
+time – it is an indicator of supra-regional networks. Likewise, the number of monu­
+ments is seen as an indicator of cooperation between local groups and stronger 
+intra-regional networks.
+Cultural Capital
+Cultural capital is knowledge of practices and action (Handlungswissen) in any 
+form and is the basis of most archaeological remains, as its realisation can lead to 
+production of material culture. However, it is difficult to grasp materially. Burial 
+customs and changes in material culture can generally be seen as cultural capital 
+because they either show knowledge of how to perform normative implementations 
+of practices or the introduction of new knowledge altering/replacing old practices. 
+In our examples, however, we have the issue that the quantification of respective 
+proxies tends to be mutually exclusive. The transitional phases of practices burial 
+costumes (e.g. single vs. collective burials or inhumation vs. cremation) can be used 
+as a qualitative argument to explain transformative processes. Therefore, we relied 
+here on a diversity measure that represents differences in the frequency of pottery 
+forms and decoration seen as cultural phenomena.
+Economic Capital
+This form of capital circumscribes possessions and material values, which in our 
+modern times are comparable to money. Our assignment of depots refers to the 
+alienable possessions of a society that are deposited in order to be taken out of the 
+value-cycle. The number of sickles is often equated with money (Sommerfeld, 
+1994), but they can also have an economic value in terms of agriculture. Likewise, 
+hatchets (axes), made from flint or bronze, are expressions of labour in the form of 
+tools. The construction of large monuments is also to be seen as a labour effort, for 
+which further surplus must be available in order to sustain labourers. The larger the 
+monument, the more food and resources must be provided.
+5.3.2  Demographic Proxies
+Although demography is not defined as a form of capital, it is highly related to all of 
+them. Population size, density and structure can be understood as an important scaling 
+and influencing factor in the social, economic, symbolic and cultural realms of a soci­
+ety (Bettencourt et al., 2007; Feinman, 2011; Shennan et al., 2017) and vice versa.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+114
+5.3.2.1  Composite Kernel Density Estimation Models 
+of Radiocarbon Dates
+As a proxy to represent the demographic development of our study area we use the 
+common approach ‘dates as data’ (Rick, 1987) employing summed radiocarbon 
+dates from archaeological records (e.g. Crema & Bevan, 2021; Hinz et al., 2012; 
+Shennan & Edinborough, 2007). Concerning the amount and representation of the 
+radiocarbon data, it is not possible to operate only with dates from the Southern 
+Cimbrian Peninsula, as especially Bronze Age contexts are highly under-­represented, 
+due to research and sampling biases. To compensate for this issue, radiocarbon 
+dates from Southern Denmark were integrated into the data set. The geographical 
+and cultural closeness of both regions throughout prehistory enables us to draw 
+from the combined record conclusion for the whole aggregated region (Kneisel 
+et al., 2019, 2022). We retrieved the radiocarbon data from the Xronos data base 
+(https://xronos.ch/), RADON-B (Kneisel et al., 2013) and the Feeser et al. (2019) 
+data set, further our data was completed by the compiled data set of Bunbury et al. 
+(2023). As a proxy to represent the demographic development of our study area we 
+use the approach ‘dates as data’ and employ composite kernel density estimation 
+(cKDE) models of the radiocarbon dates. cKDE models or kernel density models in 
+general provide a more robust alternative to summed probability distributions to 
+assess radiocarbon dates as a demographic proxy (Crema, 2022; Parkinson et al., 
+2021). For computing the cKDE models we used the R package rcarbon (Bevan 
+et al., 2022) on our site-level binned data (h = 100 years), with the kernel bandwith 
+of 75 years and 500 simulations. Radicarbon dates with high measurement errors 
+(>150 14C years) are excluded from the analysis. The refined data set contains 1384 
+radiocarbon dates from 186 sites.
+5.3.2.2  Palynological Human Impact Proxy
+2019
+5.1
+­
+2019
+2021
+2014
+J. P. Brozio et al.
+115
+5.4  Analysis
+The two main analyses are a time series of the forms of capital and the performance 
+of a principal component analysis on the 100-year binned time series. With both of 
+these data representations, we can explore the temporal development more compre­
+hensively. However, as the amount of data is too vast to present in detail, the follow­
+ing description of the results only includes the general trends, extreme deviations, 
+important correlations, as well as possible underlying structural behaviour. Detailed 
+and exhaustive data analysis can be accessed and comprehended in the supplemen­
+tary material.
+5.4.1  Timeseries
+Symbolic Capital
+5.2
+­
+1992
+2019 2020
+2022
+­
+2018
+1979
+2022
+With the introduction of houses and a sedentary way of life in the Neolithic, two-­
+aisled houses are built as single farmsteads, hamlets and from 3400 BCE in the form 
+of villages (Brozio, 2016; Hage, 2016; Müller, 2013, 2019). This is followed by a 
+phase between 2900 and 2200 BCE, from which only a few and then only small 
+buildings are documented. This changes around 2200 BCE, with the construction of 
+houses with storage buildings and associated fields (Kleijne et al., 2021).
+The introduction of two-aisled houses and the later agglomeration in villages 
+(Brozio, 2016; Hage, 2016; Müller, 2019) around 3400 BCE are in the context of an 
+economic boom phase. The buildings represent the prestige, the economic strength, 
+and the social cohesion of the groups. Battle axes and daggers materialise the 
+acquired recognition of individuals within the groups. This is particularly evident in 
+the accessories, which represent individualism and expression of personal prestige 
+(Brozio, 2020).
+The Bronze Age begins with a drop in symbolic capital, as daggers, axes/swords 
+and house size decline. However, this may also be a data gap, as there are many 
+daggers, especially in Holstein, that are not dated (Schaefer-Di Maida, 2023). Axes 
+and swords increase from 1700 BCE onwards and can be interpreted as badges or 
+emblems of prestige (Bunnefeld, 2014, 2018; Kristiansen, 1984; Kristiansen & 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+116
+ 
+Larsson, 2005). In this context, swords significantly predominate in the data curve 
+compared to axes, so that a transfer of the symbolic meaning of axes to swords can 
+be assumed with the Bronze Age. Around 1500 BCE, the size of houses from the 
+Southern Cimbrian Peninsula increases (Kneisel et al., 2019, p. 1615, Fig. 6). This 
+is also due to the use of three-aisled buildings and the introduction of the so-called 
+J. P. Brozio et al.
+117
+dwelling stable house, which came into widespread use around 1500 BCE (Meier, 
+2013). The enlargement of the house and thus also of the household requires reor­
+ganisation. The direct (overlapping) connection of houses and barrows (e.g. domes­
+tic site Handewitt, Trappendahl, etc., cf. Svanberg, 2005, p. 79) suggest that, for 
+example, the head of the household was buried by the household community in a 
+barrow. The household thus represents itself in the individual, who is singled out for 
+prestige. Symbolic capital thus reaches its zenith as titles and achievements acquire 
+a public monumental representation that cannot be unseen in the landscape. Around 
+1100 BCE, swords and daggers as well as house sizes decrease considerably. There 
+seems to be an end of elites and associated household communities and associated 
+large houses. The highlighted personalities lose importance and with them symbolic 
+capital changes. The collective is now in the foreground and manifests itself particu­
+larly through uniformly equipped urn graves in cemeteries.
+A social transformation can be observed that is repeated several times: the trans­
+formation of societies from the individual to the collective and vice versa. This 
+phenomenon is first comprehensible between 3800 and 3200 BCE. First, individual 
+burials in long barrows and partly in dolmens appear. Then, collective burials in 
+passage graves become predominant. Hereafter, 3200–2700  BCE, single burials 
+(solely, in small or larger graveyards or at passage graves) increase again (van der 
+Velde et al., 2020) and this development reaches a peak with the ealy SGC (Brozio 
+et al., 2019; Hübner, 2005; Schultrich, 2018). Then, in turn, secondary extensions in 
+the burial mounds, as well as multiple burials in burial chambers and post-burials in 
+megalithic graves, increase until 2300 BCE (Hübner, 2005; Schultrich, 2018). In the 
+centuries between 2300 and 1150 BCE a focus on the individual is visible again, 
+whereas from 1150 BCE, with the urn burial grounds, a levelling of the social stra­
+tigraphy dominates, where the highlighted personality is no longer directly in focus 
+(Kneisel, 2013; Schaefer-Di Maida, 2023; Schaefer-Di Maida & Kneisel, 2023).
+Social Capital
+The construction of monumental tombs on one hand is characterised by the con­
+struction of dolmens and subsequently of passage tombs between 3400 and 
+3100 BCE (Brozio et al., 2019). Long barrows from 3800 BCE, on the other hand, 
+are quantitatively only comprehensible in small numbers (Müller et al., 2014). With 
+SGC there is a construction boom of burial mounds from 2800  BCE onwards 
+(Hübner, 2005). A decline from 2600 BCE is associated with secondary extensions 
+of the existing burial mounds and reburials (Schultrich, 2018).
+The increasing import of copper since the beginning of the Neolithic period has 
+its first peak between 3500 and 3300 BCE (Klassen, 2000). By restricting exotic 
+imports, triggered by changing networks, a second phase of the adaptation of metal­
+lurgy only starts around 2300 BCE (Müller & Vandkilde, 2021; Schultrich, 2019).
+In the 4th millennium BCE, amber as a local resource has an important function 
+as a traditional clothing element and prestige good within the Funnel Beaker culture 
+(TRB) groups. Amber hoards occur often in the Early Neolithic (before 3300 BCE). 
+In the Middle Neolithic (3300–2800 BCE), however, amber beads predominantly 
+appear in burial contexts (Ebbesen, 1995). In the SGC of the 3rd millennium BCE, 
+amber artefacts occur in burials frequently in northern Jutland. However, they 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+118
+become less frequent in a southerly direction, at an increasing distance from the 
+secondary deposits. Thus, amber increasingly loses its importance among the soci­
+eties analysed (Hübner, 2005; Woltermann, 2016).
+Relationships in the form of regional and supra-regional networks undergo a 
+fundamental change around 3300  BCE (Müller, 2022). The import of copper 
+(Brozio et al., 2023) as well as the introduction of new technologies such as the ard 
+(Mischka, 2013), new products such as the free-threshing wheat (Kirleis & Fischer, 
+2014) or ideas of social action such as the enclosures (Dibbern, 2016; Klassen, 
+2014) reflect the high quality of the supra-regional relationship network. With the 
+cancellation of copper imports from 3300 BCE, an increase in the importance of 
+regional relations arises. This is accompanied by the joint construction of collective 
+and monumental burial grounds. However, in the late Middle Neolithic 
+(3100–2800 BCE), collective efforts decrease again while supra-regional communi­
+cation increases (Müller et al., 2020). In this phase, individual signs of power and 
+violence (the battle axe) increase in absolute numbers and in burials (Schultrich, 
+2022). This phase paves the way for the SGC societies. Around 2800 BCE, the 
+extensive networks of the SGC groups express themselves in the construction of 
+their own architecture, which not least serve the legitimation and compliance with 
+widely applied standards (Furholt, 2021). The increase in metal imports at the end 
+of the Neolithic, on the other hand, enables the accumulation and expression of 
+social capital through material culture, integrated into networks between southern 
+Scandinavia and eastern Central Europe (Vandkilde, 2017).
+With the transition to the Bronze Age, a gap in social capital seems to persist, 
+lasting at least until 1500 BCE. It goes hand in hand with the formation of the south­
+ern periphery of the Únětice culture and the associated network breakdowns, so that 
+transregional exchange also decreases (Kneisel, 2012; Meller et al., 2013). From 
+1500 BCE onwards, both burial mounds and gold finds increase markedly. Gold as 
+a resource from outside shows the increasing connectivity of the southern Jutland 
+peninsula and the establishment of wide-ranging contacts (Pahlow, 2006). But not 
+everyone was entitled to a burial mound. Nevertheless, the number of Bronze Age 
+mounds is much higher than in the Neolithic, but since only excavated mounds are 
+included in the curve, the maxima of both time horizons are similar (cf. Holst, 2013, 
+p. 42; Kristiansen & Larsson, 2005). Divergences in graves clearly indicate increas­
+ing social differentiation, which continued until about 1100 BCE. Both the con­
+struction of burial mounds and the addition of gold declined sharply from 1100 BCE 
+onwards. Monumentality and networks thus lost importance again and it seems that 
+now everyone could receive a grave in the form of an urn burial (Kneisel et al., 
+2019; Kristiansen, 2006). The power of the individual (chief?) as well as the sense 
+of the group and cooperation (e.g. for the construction of burial mounds) seem to 
+have diminished at this time. In the course of the Younger Bronze Age 
+(1100–500  BCE), burial mounds were built only sporadically, and these were 
+mostly so-called small mounds, which were mainly restricted to the south of 
+Holstein (Schmidt, 1993). Large and rich burial mounds are now the absolute excep­
+tion (May, 2018; Thrane, 1984). The meaning of social capital thus shows a consid­
+erable transformation around 1100 BCE.
+J. P. Brozio et al.
+119
+Cultural Capital
+Between 4100 and 2800 BCE, a high diversity of the shapes of vessels and decora­
+tions of ceramics can be observed within the TRB (Lorenz, 2018). High diversity is 
+present with the Fuchsberg style around 3500 BCE and then between 3100 and 
+2900 BCE. From 2800 BCE there is a decline in diversity, containing the limited 
+canon of forms of the SGC beakers, bowls and amphorae (Brozio, 2016; Müller & 
+Peterson, 2015). From 2400 BCE, with the influence of bell beakers and the dagger 
+groups, ceramics again become more diverse in terms of shapes and decorations 
+(Hübner, 2005; Kleijne, 2019).
+Ceramics as a means of expression of social reference is of great importance in 
+the 4th millennium BCE. In the developing societies of the Neolithic, production 
+and use of common forms and vessels provide opportunities to participate in 
+regional and supra-regional sign systems. From 3100 BCE onwards, the increase is 
+a reaction to a changing social system in which a developing shift from collective to 
+individual consciousness can be observed, a phase in which hereditary capital trans­
+fer is obfuscated. In the following centuries, on the other hand, a strong standardisa­
+tion can be observed, in which cultural capital plays an important role as knowledge 
+of action and represents the basis for power.
+Around 1800 BCE, the standardisation of pottery collapses, reflecting a loss of 
+previously cultivated cultural capital. While there is little variation in form, indi­
+vidual decoration increases. A clear increase in the variance of decoration from 
+1200 BCE onwards may be related to the introduction of urn burial, whereby the 
+individual design of burial vessels gained importance against the background of 
+otherwise very standardised burial methods (Schaefer-Di Maida, 2023). However, 
+the discontinuation of standardisation in pottery production brings with it a new 
+cultural capital, as metal objects become more relevant and standardised.
+Economic Capital
+During 4100–3300 BCE, an accumulation of objects in depots can be observed. 
+Around 3200  BCE and 2800  BCE there was a decrease followed by phases of 
+increase. A further increase of depots begins around 1800 BCE. Axes have a special 
+significance as tools and as objects of value in the Neolithic, a peak is reached 
+around 3300 BCE, and in the 3rd millennium BCE axes remain of great importance 
+(Brozio et al., 2019). The beginning of the Neolithic is marked by an increase in 
+human impact, which decreases between 3300 and 2900  BCE.  After a further 
+increase, a new boom phase begins around 2200 BCE (Feeser et al., 2012). This 
+phase is associated with the introduction of the surface-retouched flint sickle 
+(Kühn, 1979).
+Between 4100 and 3300  BCE we observe an increase in economic capital 
+through land opening and increased forms of accumulation of value in depots. 
+Economic power is reflected in the ability to remove imported objects from circula­
+tion. At the same time, this is associated with demographic growth, which manifests 
+itself in agglomerations in villages and manifests a quantitative increase in axes. At 
+the beginning of the 3rd millennium BCE, a decline in economic capital takes place, 
+followed by an economic boom phase from 2000 BCE (Brozio et al., 2019).
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+120
+This boom continues, especially in the Early Bronze Age, and is boosted by a 
+further increase in hoard finds around 1800 BCE, which exhausts the economic pos­
+sibility of removing finds from circulation. The introduction of bronze arguably has 
+a central role in this, in that the use of new networks possibly encouraged the 
+requirement to give something back in order to maintain connections (Kristiansen 
+& Earle, 2022, p. 13). The introduction of bronze also parallels the rise of monu­
+mentality. The construction of burial mounds becomes an important part of eco­
+nomic capital, as it requires the distribution of raw materials (Falkenstein, 2017). 
+Sickle finds, however, decline again at this time, accompanied by a decrease in 
+human impact. The use of hoards reaches a low point at the end of the Early Bronze 
+Age around 1200/1100 BCE. With the introduction of cremation burials, a relevant 
+transformation takes place, which probably also changes networks and world views 
+(Schaefer-Di Maida, 2023). In the course of the Later Bronze Age, however, hoards 
+became more important again and reached their peak. The composition of the hoards 
+resembles grave furnishings, which, in contrast to the hoards, are rather sparsely 
+furnished. It is possible that the hoard became a substitute for burial as a result, pos­
+sibly because of increasing grave robbery due to a lack of bronze.
+Human Impact
+5.3
+­
+Demography
+5.3
+5.4
+­
+J. P. Brozio et al.
+121
+ 
+2021
+provided no 14C data. Only Mang de Bargen, which has made a large database 
+recently available, has shown a strong increase in graves (Schaefer-Di Maida, 2023). 
+From 700  BCE onwards, corresponding dates are missing from the 14C curve 
+because of insufficient dating due to the cremation burial custom and the Hallstatt 
+plateau. For population development we therefore have to refer to the human impact 
+curve from 1300 BCE onwards, which, according to the local example of Mang de 
+Bargen, shows good correlation with the population development in the later Bronze 
+Age. The sudden increase in the human impact curve around 2100 BCE is not as 
+sharply visible in the cKDE model. However, the general trend of increasing human 
+activity is witnessed in both proxy archives. The immense peak between 1500 and 
+1300 BCE is not present in the human impact curve.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+122
+ 
+­
+­
+2021
+5.4.2  Relations
+­
+­
+5.5
+J. P. Brozio et al.
+123
+ 
+5.5
+­
+Early Neolithic (4000–3500 BCE): The time slices of this phase are mainly located 
+in the positive area of the x-axis, only the time slice 3500 BCE is in the nega­
+tive area.
+Middle Neolithic (3400–3000 BCE) and Younger Neolithic (2900–2300 BCE): 
+Both chronological phases form a loose cluster in the negative area of the x-axis 
+and show no outlying time slice.
+Late Neolithic (2200–1700 BCE): It is the only chronological phase that exhibits 
+high positive position on the y-axis. On the x-axis it is situated in the negative 
+area of the graph. The time slice of 1700 BCE, however, separates itself from this 
+pattern and lies in the positive area of the x-axis and negative on the y-axis.
+Older Bronze Age (1600–1200 BCE): The early phase of the Older Bronze Age 
+(1600–1500 BCE) is in the positive area of the x-axis, while the younger phase 
+(1400–1200 BCE) of the Older Bronze Age is in the negative area.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+124
+Younger Bronze Age (1100–500 BCE): The beginning of the Younger Bronze Age 
+(1100 BCE) lies in the negative area of the x-axis, while the majority of time 
+horizons (1000–500 BCE) cluster in the positive area.
+Turning the view to the attributes – the forms of capital – we see them arranged on 
+the graph as distinguishable loose clusters demarcating spheres of attraction.
+Social capital: Number of monuments, copper/gold and amber, are in the double 
+negative area of the graph.
+Symbolic capital: House size, number of daggers and hatchets/swords are in the 
+negative range of the x-axis and scattered along the y-axis.
+Economic capital: Number of sickles and of hoards, as well as monument size, are 
+mainly located in the positive area of the x-axis. Different from this are the num­
+ber of axes, which are placed in the double negative part of the graph.
+Cultural capital: The diversity of ceramic decoration and ceramic form lie between 
+economic and symbolic capital, diametrically opposed to each other.
+What is striking is the shift of initial or final time slices of a chronological phase to 
+an opposite part of the graph. These time slices are in each case initial or final 
+phases of transformation processes and describe clear transition and change in 
+importance of the forms of capital. It could be discussed in detail whether these time 
+slices do not already belong to the next chronological phase, but we rely on the 
+phase division of the Neolithic and the Bronze Age, which has developed in research 
+history and saw good reasons to propose given breaks (Kneisel, 2021; Müller et al., 
+2012; Müller & Vandkilde, 2021; Vandkilde, 1996, 2017). The PCA shows just as 
+clearly as the time series representation that we are dealing with a change in the 
+composition and significance of the forms of capital at the beginning and the end of 
+our chronological phases. However, while this might appear to be nothing new, we 
+provide the possibility of an in-depth multi-causal and inter-relational discussion of 
+transformation processes.
+In summary, a change along the y-axis can be seen in the Neolithic, with the Late 
+Neolithic period in the positive area of the axis, while the rest are largely in the 
+negative area. A change along the x-axis can be seen for the Bronze Age sections. 
+Thus, the change within the Bronze Age stages is always between social and eco­
+nomic, while the change in the Neolithic is between three forms of capital: social, 
+symbolic and economic.
+5.4.3  Correlations
+5.5
+J. P. Brozio et al.
+125
+In order to assess the concurrency of our chosen archaeological and demographic 
+proxies apart from ‘eyeballing’ we use a pairwise Pearson’s correlation of the time 
+series in 100-year bins, within time windows of 500  years, 1000  years and in 
+archaeologically meaningful phases thereafter (Palmisano et al., 2021). The bin size 
+is set by the temporal resolution of the archaeological proxies. Admittedly, the 100-­
+year binning of the proxies leads to a small sample size for the correlation test and 
+therefore the results need to be treated with caution. The results of all possible cor­
+relations in the given time windows and the corresponding code can be accessed via 
+the supplementary material.
+5.2
+­
+5.6
+5.2
+5.7
+Not least the copper boom, as well as the import stop of the same, between 3500 
+and 3400 BCE can be seen as a turning point in the North, which probably had a 
+lasting impact on the importance of the different forms of capital in society. The 
+high number of amber finds and the large number of monuments from 3300 BCE 
+onwards are evidence of elaborate local and small-scale regional networks. In 
+another respect, this development is simultaneously expressed in the decrease in 
+house sizes, which suggests smaller reference groups, among other things. Power 
+relations are now more likely to be negotiated through the sizes and number of 
+monuments. This indicates small, eventually complexly structured, groups that 
+cooperate intensively with each other, but at the same time also compete with each 
+other and have fewer supra-regional networks (Brozio et al., 2023; Wunderlich, 
+2019). These developments partly go hand in hand with the agglomeration process 
+of the settlement structure, which could lead to the described reorientation of capital 
+forms. In more dense areas, communication and interaction behaviour for the nego­
+tiation of power relations must develop differently than between dispersed groups 
+that create their space in a landscape that is hardly shaped at all. Our demographic 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+126
+ 
+proxies show a population decline during the Middle Neolithic, whereby the 
+agglomeration of settlement communities could play a role here.
+5.8
+5.2
+­
+After the Middle Neolithic, the decrease in monument size suggests a reduction 
+in the size of the reference groups, and evidence of increased mobility. We assume 
+that the basic organisation in complexly structured small groups with their local 
+networks is nevertheless preserved. Superregional networks are present at this time 
+with the connections to the Corded Ware but are not recorded due to our selection 
+of material culture for the capital forms. Vegetation opening and human activity 
+J. P. Brozio et al.
+127
+ 
+records a slight increase during the beginning of the SGC (2900–2600 BCE) and 
+decreases towards the end (2500–2200 BCE). At the same time, an abrupt cooling 
+event took place around 2900 BCE (Chap. 6).
+­
+5.9
+6
+
+5.3
+5.4
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+128
+ 
+and vegetation opening. The introduction of spelt and the crescent flint sickle may 
+be expressions of such a turn in agriculture.
+­
+­
+2019
+2013
+2003
+1994
+2002
+J. P. Brozio et al.
+129
+ 
+development of new landscapes, but in the agglomeration of a new and valuable 
+form of resource. This interconnectedness of capital forms is also evident in the 
+expressive correlation of capital forms in the period from 1800 to 1400  BCE 
+(Fig.  5.10; see supplementary material: Correlation 1800–1400). From 
+1400/1300  BCE onwards, this correlation pattern again declines sharply 
+(cf. Fig.  5.2; see supplementary material: Correlation 1300–900, 1100–700 and 
+1000–600).
+In the course of the Older Bronze Age (1500–1200  BCE), a change from 
+economic to symbolic capital can again be detected from 1400  BCE onwards. 
+A decrease in economic capital is indicated by fewer hoards and sickles. The rise in 
+symbolic capital is clearly evidenced by the increasing house sizes and the high 
+number of swords. The ambivalence of how social capital manifests is interesting, 
+since it shows a very good integration of these societies into supra-regional net­
+works as evidenced by gold imports; but at the same time, the increased number of 
+monuments indicates the strengthening of local networks, proving an internal coop­
+eration between the different communities. The social status of highlighted 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+130
+ 
+personalities is shaped by local power and supra-regional relations. After a drop in 
+land opening around 1500 BCE, there is a renewed increase in human impact, but 
+after 1400 BCE, the radiocarbon data show a trend of decreasing population density. 
+Nevertheless, the demographic proxy shows the highest values between c. 1500 and 
+1200 BCE, even if the preceeding and succeeding chronological phases may be 
+subject to research bias, we have to assume a relatively large population. The ques­
+tion is whether this increase in population coincides with an increase in social 
+inequality and the desire to accumulate symbolic capital. We know that the time 
+horizon between 1600 and 1500  BCE is a very important one across Europe, 
+in which transformation processes take place in many regions, which in turn have 
+an impact on the existing pan-European Bronze Age network (Kneisel, 2012; 
+Meller et al., 2013). A migration to the north cannot be ruled out, but it is certain 
+that the north consumed large quantities of high-quality bronzes in graves and 
+hoarding behaviour during this period. A demographic peak around 1400 BCE can 
+be explained by various effects, including the migration of people to the north after 
+the collapse of social structures in the south (Kneisel, 2013; Vandkilde, 2017). If the 
+J. P. Brozio et al.
+131
+growth rate of the demographic proxy is taken into account, however, a positive 
+trend can already be seen in the Late Neolithic, which reaches its peak around 
+1600 BCE and declines again from here on. Assuming that there is a wave of migra­
+tion, there would also have to be a sharp increase, especially around 1600–1500 BCE, 
+but that is not the case. It seems that the demographic trend is an internal one, the 
+magnitude of which will have to be debated in the future. It is interesting to note that 
+a negative growth rate correlates with a decrease in sickles, which may be due to 
+changes in agricultural practices and intensification of animal husbandry. The Older 
+Bronze Age is a period of high prosperity, which seems to have been characterised 
+by a high degree of concurrence between communities and spheres of influence. 
+The strong externalisation of symbolic capital in combination with the individual 
+manifestations of the other forms of capital (e.g. high number of hoards and low 
+number of sickles) and possible population pressure makes this reading of the 
+data likely.
+­
+2023
+2019
+5.11
+House sizes shrink significantly and objects indicating rank and prestige are 
+present in significantly smaller numbers than in the previous chronological phase. 
+The reduction of the number of houses has a great significance for the social struc­
+ture of the Younger Bronze Age communities. Not only does the symbolism of the 
+large house lose its significance, but it seems to indicate that the social units that 
+previously inhabited the large houses emancipated themselves from each other and 
+formed their own households (Mikkelsen, 2020). A probably similar process of 
+emancipation and individualisation can be traced in the negotiation of ownership of 
+farmland. During the Younger Bronze Age, so-called celtic fields are established, 
+which demarcate agricultural land and can probably be understood as a sign of own­
+ership. Over time, these fields become smaller, which is usually explained by the 
+adoption of inheritance rights (Arnold, 2011; Løvschal & Holst, 2014). The change 
+in the increased importance of economic capital is also evident in the huge rise in 
+depositions of artefacts, testifying to the importance of negotiating and presenting 
+exchange values and economic capabilities between and within communities. The 
+renewed abundance of sickles fits well with the innovations in agriculture. The local 
+networks of the Older Bronze Age seem to have been less pronounced, as the capital 
+forms indicating collaboration and small-scale regional exchange (e.g. number of 
+monuments and amber) are hardly developed. This is not the case for the supra-­
+regional networks, which again seem to be less intensive than in the Older Bronze 
+Age but can be proved by the presence of gold finds. In addition, we know connec­
+tions to communities in Central Europe were present (iron, face/house urns, foreign 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+132
+ 
+forms in hoards), but due to our selection of material culture they are not recorded 
+in the capital forms. The diversity of ceramic decorations also supports the idea of 
+extensive contacts. As already mentioned, the transition from the Older to the 
+Younger Bronze Age is a transformation phase in which many things happen and 
+change (Kneisel, 2021). We see this clearly in our capital forms and the proxy for 
+land opening. What we do not show with these proxies, however, is the change in 
+burial customs from inhumations to cremations, which can be seen as a strong 
+marker for changes in the social and ideological-religious system (Fokkens, 1997; 
+Hofmann, 2008; Rebay-Salisbury, 2012; Schaefer-Di Maida, 2023). The change in 
+burial rites is most likely to be linked to the abandonment of monument construc­
+tion; from 1100 BCE onwards, burials as urn graves are mainly deposited in existing 
+mounds of the Older Bronze Age. Within the subsistence economy, the introduction 
+of millet is certainly significant during the Younger Bronze Age (Filipović et al., 
+2020), and the increasing use of horses as mounts, possibly as work animals, is 
+likely to have had an influence on social relations.
+J. P. Brozio et al.
+133
+With regard to the selection of capital forms, recurring patterns can be identified 
+in the section from the Early Neolithic to the end of the Bronze Age. The develop­
+ment of the SGC and the Younger Bronze Age shows parallels in the relationship of 
+the forms of capital, just as there seems to be no change in the forms of capital 
+between the developed TRB and SGC.
+5.5  Conclusion
+The structures of social space are subject to dynamic processes that characteristi­
+cally change in certain periods of time: until 3500 BCE, an increase in the impor­
+tance of symbolic, cultural and social capital can be observed. This is associated 
+with a phase of economic growth. In this period, which is connected with 
+Neolithisation, the forms of capital emerge within the new economic forms. This 
+includes the ability to accumulate land for agriculture, the membership of networks 
+expressed through material culture, as well as the transmission of knowledge and 
+the representations through monuments. A prerequisite to being able to accumulate 
+surplus and produce symbolic capital – prestige and power – is economic security 
+by colonising the landscape and establishing a reliable agricultural system. Around 
+3000 BCE we observe a boom phase of cultural and symbolic capital. In contrast, 
+there was a decline in social and economic capital. With the transition from the 4th 
+to the 3rd millennium BCE, cultural capital is of major importance. It enables indi­
+viduals or groups in society to distinguish themselves. At the same time, symbolic 
+capital increases in societies, making it possible to acquire and consolidate power. 
+After a boom in social capital, cultural capital declined around 2500 BCE, while 
+economic and social capital remained stable. New cultural phenomena also lead to 
+changes in social space. For example, cultural competences change due to the influ­
+ence of the Bell Beakers phenomena, which had previously been determined for 
+generations by belonging to pan-European networks of the social groups associated 
+to Corded Ware Pottery. However, these new influences do not change the economy. 
+With the transition from the 3rd to the 2nd millennium BCE, the importance of 
+social and economic capital decreases in some areas. Cultural and symbolic capital, 
+on the other hand, increase. The increasing adaptation of metal in societies enables 
+new forms of display and the transmission of new emerging knowledge of action. 
+The basis is formed by economic intensification, as a result of which the landscape 
+is increasingly opened up to agriculture. From 1500 BCE, there is a shift in the 
+importance of the forms of capital; symbolic capital rises first, followed by social 
+capital and economic capital. Cultural capital in form of a wider variation of 
+ornaments gains in importance. Around 1300  BCE, social capital and symbolic 
+capital become more important. Cultural capital remains stable, while economic 
+capital declines. The change in burial rites and associated transformations can 
+be seen here as the engine of the shifts in the meaning of the forms of capital. 
+This changes again around 1100  BCE, when the symbolic and social capital 
+decrease sharply. The importance of cultural capital continues to grow with regard to 
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+134
+ceramic ornamentation. At the same time, the economic capital increases drastically 
+(the hoard finds in particular play a decisive role here) and does not decrease again 
+until around 700 BCE. A slight change of increase and decrease in the social capital 
+between 900 and 600 BCE is shown by the changes in networks known for the end 
+of the Bronze Age and the transition to the Iron Age.
+5.12
+­
+­
+ 
+J. P. Brozio et al.
+135
+within society. Secondly, social capital in relation to membership of social groups. 
+In addition, economic capital and cultural capital also show a strong correlation. In 
+contrast, cultural capital and symbolic capital show only a low correlation. In this 
+pattern, demographic developments are the trigger for changes in social structures 
+that can be represented by different forms of capital.
+Supplementary material  The data generated or analysed during this study are included in 
+this published article and its supplementary materials and are available online in the Zenodo 
+repository: https://doi.org/10.5281/zenodo.10535170.
+References
+Ahrens, C. (1966). Vorgeschichte des Kreises Pinneberg und der Insel Helgoland. Wachholtz.
+Allentoft, M. E., Sikora, M., Refoyo-Martínez, A., Irving-Pease, E. K., Fischer, A., Barrie, W., 
+Ingason, A., Stenderup, J., Sjögren, K.-G., Pearson, A., Sousa da Mota, B., Schulz Paulsson, 
+B., Halgren, A., Macleod, R., Schjellerup Jørkov, M. L., Demeter, F., Novosolov, M., Sørensen, 
+L., Nielsen, P. O. et al. (2022). Population genomics of Stone Age Eurasia (preprint). bioRxiv. 
+http://biorxiv.org/lookup/doi/10.1101/2022.05.04.490594
+Aner, E., & Kersten, K. (1978). Südschleswig-Ost. Die Kreise Schleswig-Flensburg und Rendsburg-­
+Eckernförde (nördlich des Nord-Ostsee-Kanals). Wachholtz.
+Aner, E., & Kersten, K. (1979). Südschleswig-West. Wachholtz.
+Aner, E., & Kersten, K. (1991). Dithmarschen. Wachholtz.
+Aner, E., & Kersten, K. (1993). Kreis Steinburg. Wachholtz.
+Aner, E., Kersten, K., & Willroth, K.-H. (2005). Kreis Rendsburg-Eckernförde (südlich des 
+Nord-­Ostsee-­Kanals) und die kreisfreien Städte Kiel und Neumünster. Wachholtz.
+Aner, E., Kersten, K., & Willroth, K.-H. (2011). Kreis Segeberg. Wachholtz.
+Aner, E., Kersten, K., & Willroth, K.-H. (2017). Kreise Plön und Ostholstein und die kreisfreie 
+Hansestadt Lübeck. Wachholtz.
+Appadurai, A. (1986). Introduction: Commodities and the politics of value. In A.  Appadurai 
+(Ed.), The social life of things. Commodities in cultural perspective (pp. 64–91). Cambridge 
+University Press.
+Arnold, V. (2011). Celtic Fields und andere urgeschichtliche Ackersysteme in historisch alten 
+Waldstandorten Schleswig-Holsteins aus Laserscandaten. Archäologisches Korrespondenzblatt, 
+41, 439–455. https://doi.org/10.11588/ak.2011.3.21792
+Bernbeck, R. (2009). Wertschöpfungstheorien von Marx und Mauss zu Baudrillard und Bourdieu. 
+In B. Hildebrandt & C. Veit (Eds.), Der Wert der Dinge – Güter im Prestigediskurs. »Formen von 
+Prestige in Kulturen des Altertums«. Graduiertenkolleg der DFG an der Ludwig-Maximilians-­
+Universität München (pp. 29–72). Herbert Utz Verlag.
+Bettencourt, L. M. A., Lobo, J., Helbig, D., Kühnert, C., & West, G. B. (2007). Growth, innova­
+tion, scaling, and the pace of life in cities. PNAS, 104(17), 7301–7306. https://doi.org/10.1073/
+pnas.0610172104
+Bevan, A., Crema, E. R., Li, X., & Palmisano, A. (2013). Intensities, interactions, and uncertain­
+ties: Some new approaches to archaeological distributions. In A. Bevan & M. Lake (Eds.), 
+Computational approaches to archaeological spaces (pp. 27–52). Left Coast Press.
+Bevan, A., Crema, E. R., Bocinsky, K., Hinz, M., Riris, P., & Silva, F. (2022). rcarbon: Calibration 
+and analysis of radiocarbon dates [Statistical programming package]. https://CRAN.R-­project.
+org/package=rcarbon
+Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.), Handbook of theory and research 
+for the sociology of education (pp. 241–258). Greenwood.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+136
+Breske, B. J. (2017). Untersuchungen zu neolithischen Beilen in Schleswig-Holstein [Unpublished 
+master’s thesis]. Christian-Albrechts-Universität zu Kiel.
+Brinkmann, J. (2019). Copper output, demand for wood and energy expenditure – Evaluating eco­
+nomic aspects of Bronze Age metallurgy. In M. Dal Corso, W. Kirleis, J. Kneisel, N. Taylor, 
+M. Wieckowska-Lüth, & M. Zanon (Eds.), How’s life? Living conditions in the 2nd and 1st 
+Millennia BCE (pp. 11–34). Sidestone Press. https://doi.org/10.59641/e7245hq
+Brozio, J. P. (2016). Megalithanlagen und Siedlungsmuster im trichterbecherzeitlichen Ostholstein. 
+Dr. Rudolf Habelt.
+Brozio, J.  P. (2019). Zur absoluten Chronologie der Einzelgrabkultur in Norddeutschland und 
+Nordjütland. Germania, 96, 45–92. https://doi.org/10.11588/GER.2018.65796
+Brozio, J. P. (2020). From hierarchies in balance to social imbalance – Transformation processes 
+in the later Funnel Beaker north societies in the western Baltic Sea region (3100–2900 BC). 
+In A. B. Gebauer, L. Sørensen, A. Teather, & A. C. Valera (Eds.), Monumentalizing life in 
+Neolithic Europe: Narratives of continuity and change (pp. 99–114). Oxbow Books.
+Brozio, J. P., Müller, J., Furholt, M., Kirleis, W., Dreibrodt, S., Feeser, I., Dörfler, W., Weinelt, M., 
+Raese, H., & Bock, A. (2019). Monuments and economies: What drove their variability in the 
+middle-Holocene Neolithic? The Holocene [Special Issue: Scales of Transformation – Human-­
+Environmental Interaction in Prehistoric and Archaic Societies], 29(10), 1558–1571. https://
+doi.org/10.1177/0959683619857227
+Brozio, J. P., Stos-Gale, Z., Müller, J., Müller-Scheeßel, N., Schultrich, S., Fritsch, B., Jürgens, F., 
+& Skorna, H. (2023). The origin of Neolithic copper on the central Northern European plain 
+and in Southern Scandinavia: Connectivities on a European scale. PLoS One, 18(5), Article 
+e0283007. https://doi.org/10.1371/journal.pone.0283007
+Bunbury, M. M. E., Austvoll, K. I., Kirkeng Jørgensen, E., Vatsvåg Nielsen, S., Kneisel, J., Brozio, 
+J. P., & Weinelt, M. 2023. Understanding climate resilience in Scandinavia during the Neolithic 
+and early Bronze Age. Quaternary Science Reviews, 322, 1–20.
+Bunnefeld, J.-H. (2014). Der Häuptling und sein Schwert? – Anmerkungen zur sozialen Stellung 
+des Schwertträgers in der älteren nordischen Bronzezeit. In T.  Link & H.  Peter-Röcher 
+(Eds.), Gewalt und Gesellschaft. Dimensionen der Gewalt in ur- und frühgeschichtlicher 
+Zeit. Internationale Tagung vom 14.–16. März 2013 an der Julius-Maximilians-Universität 
+Würzburg (pp. 133–143). Dr. Rudolf Habelt.
+Bunnefeld, J.-H. (2018). The chief and his sword? Some thoughts on the Swordbearer’s rank in the 
+Early Nordic Bronze Age. In C. Horn & K. Kristiansen (Eds.), Warfare in Bronze Age society 
+(pp. 198–212). Cambridge University Press.
+Bunting, M. J., Farrell, M., Dunbar, E., Reimer, P., Bayliss, A., Marshall, P., & Whittle, A. (2022). 
+Landscapes for Neolithic people in mainland, Orkney. Journal of World Prehistory, 35, 87–107. 
+https://doi.org/10.1007/s10963-­022-­09166-­y
+Crema, E. R. (2022). Statistical inference of prehistoric demography from frequency distribu­
+tions of radiocarbon dates: A review and a guide for the perplexed. Journal of Archaeological 
+Method and Theory, 29, 1387–1418. https://doi.org/10.1007/s10816-­022-­09559-­5
+Crema, E. R., & Bevan, A. (2021). Inference from large sets of radiocarbon dates: Software and 
+methods. Radiocarbon, 63(1), 23–39. https://doi.org/10.1017/RDC.2020.95
+Dibbern, H. (2016). Das trichterbecherzeitliche Westholstein: Eine Studie zur neolithischen 
+Entwicklung von Landschaft und Gesellschaft. Dr. Rudolf Habelt.
+Donat, P. (2018). Häuser der Bronze- und Eisenzeit im mittleren Europa. Beier & Beran. https://
+doi.org/10.22032/dbt.45587
+Ebbesen, K. (1995). Die nordischen Bernsteinhorte der Trichterbecherkultur. Prähistorische 
+Zeitschrift, 70(1), 32–89. https://doi.org/10.1515/prhz.1995.70.1.32
+Falkenstein, F. (2017). Zum Wandel der Bestattungssitten von der Hügelgräber- zur 
+Urnenfelderkultur in Süddeutschland. In D. Brandherm & B. Nessel (Eds.), Phasenübergänge 
+und Umbrüche im bronzezeitlichen Europa. Beiträge zur Sitzung der Arbeitsgemeinschaft 
+Bronzezeit auf der 80. Jahrestagung des Nordwestdeutschen Verbandes für Altertumsforschung 
+(pp. 77–96). Dr. Rudolf Habelt.
+J. P. Brozio et al.
+137
+Feeser, I., Dörfler, W., Averdieck, F.-R., & Wiethold, J. (2012). New insight into regional and 
+local land-use and vegetation patterns in eastern Schleswig-Holstein during the Neolithic. In 
+M. Hinz & J. Müller (Eds.), Siedlung, Grabenwerk, Großsteingrab: Studien zu Gesellschaft, 
+Wirtschaft und Umwelt der Trichterbechergruppen im nördlichen Mitteleuropa (pp. 159–190). 
+Dr. Rudolf Habelt. https://www.monument.ufg.uni-­kiel.de/fileadmin/projekte/common/fmsd2/
+FMSD_02.pdf
+Feeser, I., Dörfler, W., Kneisel, J., Hinz, M., & Dreibrodt, S. (2019). Human impact and population 
+dynamics in the Neolithic and bronze age: Multi-proxy evidence from north-western Central 
+Europe. The Holocene [Special Issue: Scales of Transformation  – Human-Environmental 
+Interaction in Prehistoric and Archaic Societies], 29(10), 1596–1606. https://doi.
+org/10.1177/0959683619857223
+Feinman, G. M. (2011). Size, complexity, and organizational variation: A comparative approach. 
+Cross-Cultural Research, 45(1), 37–58. https://doi.org/10.1177/1069397110383658
+Filipović, D., Meadows, J., Dal Corso, M., Kirleis, W., Alsleben, A., Akeret, Ö., Bittmann, F., 
+Bosi, G., Ciută, B., Dreslerová, D., Effenberger, H., Gyulai, F., Heiss, A. G., Hellmund, M., 
+Jahns, S., Jakobitsch, T., Kapcia, M., Klooß, S., Kohler-Schneider, M., et al. (2020). New 
+AMS 14C dates track the arrival and spread of broomcorn millet cultivation and agricultural 
+change in prehistoric Europe. Scientific Reports, 10(1), Article 13698. https://doi.org/10.1038/
+s41598-­020-­70495-­z
+Fokkens, H. (1997). The genesis of urnfields: Economic crisis or ideological change? Antiquity, 
+71(272), 360–372. https://doi.org/10.1017/S0003598X00084970
+Fontijn, D. (2002). Sacrificial landscapes. Cultural biographies of persons, objects and ‘natu­
+ral’ places in the Bronze Age of the Southern Netherlands, c. 2300–600 BC. Sidestone Press. 
+https://www.sidestone.com/books/sacrificial-­landscapes
+Furholt, M. (2021). Mobility and social change: Understanding the European Neolithic period 
+after the Archaeogenetic revolution. Journal of Archaeological Research, 29, 481–535. https://
+doi.org/10.1007/s10814-­020-­09153-­x
+Gerritsen, F. (2009). To build and to abandon: The cultural biography of late prehistoric houses 
+and farmsteads in the Southern Netherlands. Archaeological Dialogues, 6, 78–97. https://doi.
+org/10.1017/S1380203800001410
+Gosden, C., & Marshall, Y. (1999). The cultural biography of objects. World Archaeology, 31(2), 
+169–178. https://doi.org/10.1080/00438243.1999.9980439
+Hage, 
+F. 
+(2016). 
+Büdelsdorf/Borgstedt: 
+Eine 
+trichterbecherzeitliche 
+Kleinregion. 
+Dr. Rudolf Habelt.
+Heitz, C., Hinz, M., Laabs, J., & Hafner, A. (2021). Mobility as resilience capacity in northern 
+Alpine Neolithic settlement communities. Resilience & Archaeology, 36(1), 75–105. https://
+doi.org/10.17863/CAM.79042
+Hingst, H. (1959). Vorgeschichte des Kreises Storman. Wachholtz.
+Hinz, M., Feeser, I., Sjögren, K.-G., & Müller, J. (2012). Demography and the intensity of cul­
+tural activities: An evaluation of Funnel Beaker societies (4200–2800 cal BC). Journal of 
+Archaeological Science, 39(10), 3331–3340. https://doi.org/10.1016/j.jas.2012.05.028
+Hofmann, K. P. (2008). Der rituelle Umgang mit dem Tod: Untersuchungen zu bronze- und früh­
+eisenzeitlichen Brandbestattungen im Elbe-Weser-Dreieck. Isensee Verlag.
+Hoika, J.  A. J. (1999). Trichterbecherkultur  – Megalithkultur? Überlegungen zum 
+Bestattungsbrauchtum der Trichterbecherkultur in Schleswig-Holstein und Mecklenburg. 
+In K.  W. Beinhauer, G.  Cooney, C.  E. Guksch, & S.  Kus (Eds.), Studien zur Megalithik: 
+Forschungsstand und ethnoarchäologische Perspektiven (pp. 173–198). Beier & Beran.
+Holst, M. K. (2013). South Scandinavian Early Bronze Age barrows – A survey. In M. K. Holst & 
+M. Rasmussen Lindegaard (Eds.), Skelhøj and the Bronze Age barrows of Southern Scandinavia: 
+Vol I.  The Bronze Age barrow tradition and the excavation of Skelhøj (pp.  27–128). Jysk 
+Arkæologisk Selskab.
+Hübner, E. (2005). Jungneolithische Gräber auf der Jütländischen Halbinsel. Typologische und 
+chronologische Studien zur Einzelgrabkultur. Det Kongelige Nordiske Oldskriftselskab.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+138
+Jahn, C. (2013). Symbolgut Sichel. Studien zur Funktion spätbronzezeitlicher Griffzungensicheln 
+in Depotfunden. Dr. Rudolf Habelt.
+Joy, J. (2009). Reinvigorating object biography: Reproducing the drama of object lives. World 
+Archaeology, 41(4), 540–556. https://doi.org/10.1080/00438240903345530
+Jung, M. (2015). Das Konzept der Objektbiographie im Lichte einer Hermeneutik materieller 
+Kultur. In D. Boschung, P. A. Kreuz, & T. Kienlin (Eds.), Biography of objects (pp. 35–65). 
+Wilhelm Fink Verlag.
+Kadrow, S., & Müller, J. (2019). Habitus? The social dimension of technology and transformation. 
+In S. Kadrow & J. Müller (Eds.), Habitus? The social dimension of technology and transforma­
+tion (pp. 11–14). Sidestone Press. https://doi.org/10.59641/d6356gp
+Kersten, K. (1951). Vorgeschichte des Kreises Herzogtum Lauenburg. Wachholtz.
+Kersten, K. (1981). Die archäologische Landesaufnahme von Schleswig-Holstein. Offa. Berichte 
+Und Mitteilungen Zur Urgeschichte, Frühgeschichte Und Mittelalterarchäologie, 38, 17–20.
+Kersten, K., & Schwantes, G. (1939). Vorgeschichte des Kreises Steinburg. Wachholtz.
+Kirleis, W., & Fischer, E. (2014). Neolithic cultivation of tetraploid free threshing wheat in 
+Denmark and Northern Germany: Implications for crop diversity and societal dynamics of 
+the Funnel Beaker Culture. Vegetation History and Archaeobotany, 23, 81–96. https://doi.
+org/10.1007/s00334-­014-­0440-­8
+Klassen, L. (2000). Frühes Kupfer im Norden. Untersuchungen zu Chronologie, Herkunft und 
+Bedeutung der Kupferfunde der Nordgruppe der Trichterbecherkultur. Moesgård Museum.
+Klassen, L. (2004). Jade und Kupfer: Untersuchungen zum Neolithisierungsprozess im westlichen 
+Ostseeraum unter besonderer Berücksichtigung der Kulturentwicklung Europas 5500–3500 
+BC. Aarhus University Press.
+Klassen, L. (2014). Along the road: Aspects of causewayed enclosures in South Scandinavia and 
+beyond. Aarhus University Press.
+Kleijne, J. (2019). Embracing Bell Beaker: Adopting new ideas and objects across Europe 
+during the later 3rd millennium BC (c. 2600–2000 BC). Sidestone Press. https://doi.
+org/10.59641/c5467fo
+Kleijne, J., Brozio, J.  P., Pfeiffer, A., Storch, S., & Kootker, A. (2021). Near the ancestors 
+at Archsum: A contemporaneous Bell Beaker grave and settlement? Offa. Berichte und 
+Mitteilungen zur Urgeschichte, Frühgeschichte und Mittelalterarchäologie, 3, 55–80. https://
+doi.org/10.26016/offa.2020.A3
+Kneisel, J. (2012). The problem of the Middle Bronze Age inception in Northeast Europe—
+Or: Did the Únětice society collapse? In J. Kneisel, W. Kirleis, M. Dal Corso, N. Taylor, & 
+V. Tiedtke (Eds.), Collapse or continuity? Environment and development of Bronze Age human 
+landscapes. Proceedings of the international workshop ‘socio-environmental dynamics over 
+the last 12,00 years: The creation of landscapes II (14th–18th March 2011)’ in Kiel (Vol. 1, 
+pp. 209–233). Dr. Rudolf Habelt.
+Kneisel, J. (2013). Der Übergang von der Frühbronzezeit zur Mittelbronzezeit im nordöstlichen 
+Mitteleuropa. Lücke oder Forschungsdesiderat? In J. Kneisel, H. J. Behnke, & A. Schopper 
+(Eds.), Frühbronzezeit – Mittelbronzezeit. Neue Erkenntnisse zur Besiedlung zwischen Elbe 
+und Warthe und angrenzender Regionen (2000–1400 v. Chr.). Symposium vom 24.–25. Sept. 
+2011 in Welzow/Brandenburg (pp. 95–120). Rudolf Habelt.
+Kneisel, J. (2021). Chronology and transformation. The transition from Bronze to Iron Age in 
+Northern Europe. In E. Kaiser & W. Schier (Eds.), Time and materiality: Periodization and 
+regional chronologies at the transition from Bronze to Iron Age in Eurasia (1200–600 BCE) 
+(pp. 237–263). VML Verlag Marie Leidorf.
+Kneisel, J., Hinz, M., & Rinne, C. (2013). Radon-B – Radiocarbondates online (version 2014). 
+Database for European 14C dates for the Bronze and Early Iron Age [Data set]. http://radon-­b.
+ufg.uni-­kiel.de/
+Kneisel, J., Dörfler, W., Dreibrodt, S., Schaefer-Di Maida, S., & Feeser, I. (2019). Cultural change 
+and population dynamics during the Bronze Age: Integrating archaeological and palaeoenvi­
+ronmental evidence for Schleswig-Holstein, Northern Germany. The Holocene [Special Issue: 
+Scales of Transformation  – Human-Environmental Interaction in Prehistoric and Archaic 
+Societies], 29(10), 1607–1621. https://doi.org/10.1177/0959683619857237
+J. P. Brozio et al.
+139
+Kneisel, J., Schaefer-Di Maida, S., & Feeser, I. (2022). Settlement patterns in the Bronze Age 
+Western Baltic Comparisons at different regional scales. In F.  Nikulka, D.  Hofmann, & 
+R.  Schumann (Eds.), The Baltic in the Bronze Age. Regional patterns, interactions and 
+boundaries (pp.  189–217). Sidestonepress. https://www.sidestone.com/books/the-­baltic-­
+in-­the-­bronze-­age
+Kohler, T. A., & Smith, M. E. (2018). Ten thousand years of inequality: The archaeology of wealth 
+differences. University of Arizona Press. https://doi.org/10.2307/j.ctt20d8801
+Kopytoff, I. (1986). The cultural biography of things: Commoditization as process. In A. Appadurai 
+(Ed.), The social life of things. Commodities in cultural perspective (pp. 64–91). Cambridge 
+University Press.
+Krause, R. (2003). Studien zur kupfer- und frühbronzezeitlichen Metallurgie zwischen 
+Karpatenbecken und Ostsee. VML Verlag Marie Leidorf.
+Kristiansen, K. (1984). Krieger und Häuptlinge in der Bronzezeit Dänemarks. Ein Beitrag 
+zur Geschichte des bronzezeitlichen Schwertes. Jahrbuch Des Römisch-Germanischen 
+Zentralmuseums Mainz, 31, 187–208. https://doi.org/10.11588/jrgzm.1984.0.58781
+Kristiansen, K. (2006). Cosmology, economy and long-term change in the Bronze Age of Northern 
+Europe. In K.-G. Sjögren (Ed.), Ecology and economy in Stone Age and Bronze Age Scania 
+(pp. 171–193). Riksantikvarieämbetet.
+Kristiansen, K., & Earle, T. (2022). Modelling modes of production: European 3rd and 2nd 
+Millennium BC economies. In M. Frangipane, M. Poettinger, & B. Schefold B. (Eds.), Ancient 
+economies in comparative perspective. Material life, institutions and economic thought 
+(pp. 131–163). Springer. https://doi.org/10.1007/978-­3-­031-­08763-­9_8
+Kristiansen, K., & Larsson, T. B. (2005). The rise of Bronze Age society. Travels, transmissions 
+and transformations. Cambridge University Press.
+Kühn, H. J. (1979). Das Spätneolithikum in Schleswig-Holstein. Wachholtz.
+Lechterbeck, J., Edinborough, K., Kerig, T., Fyfe, R., Roberts, N., & Shennan, S. (2014). Is 
+Neolithic land use correlated with demography? An evaluation of pollen derived land cover 
+and radiocarbon-inferred demographic change from Central Europe. The Holocene, 24(10), 
+1297–1307. https://doi.org/10.1177/0959683614540952
+Lorenz, L. (2012). Keramiklaufzeiten und die Nutzungsdauer nordostdeutscher Megalithgräber. In 
+M. Hinz & J. Müller (Eds.), Siedlung, Grabenwerk, Großsteingrab: Studien zu Gesellschaft, 
+Wirtschaft und Umwelt der Trichterbechergruppen im nördlichen Mitteleuropa (pp. 61–86). 
+Dr. Rudolf Habelt. https://www.monument.ufg.uni-­kiel.de/fileadmin/projekte/common/fmsd2/
+FMSD_02.pdf
+Lorenz, L. (2018). Kommunikationsstrukturen mittelneolithischer Gesellschaften im nordmitteleu­
+ropäischen Tiefland. Dr. Rudolf Habelt.
+Løvschal, M., & Holst, M. K. (2014). Repeating boundaries – Repertoires of landscape regulations 
+in southern Scandinavia in the Late Bronze Age and Pre-Roman Iron Age. Danish Journal of 
+Archaeology, 3(2), 95–118. https://doi.org/10.1080/21662282.2014.990311
+May, J. (2018). Neue Forschungen am „Königsgrab“ von Seddin. In S. Hansen & F. Schopper 
+(Eds.), Der Grabhügel von Seddin im norddeutschen und südskandinavischen Kontext. 
+Internationale Konferenz International Conference 16. bis 20. Juni 2014, Brandenburg an 
+der Havel (pp. 9–35). Brandenburgisches Landesamt für Denkmalpflege und Archäologisches 
+Landesmuseum.
+Meier, D. (2013). Eine Siedlung der älteren Bronzezeit in Schleswig-Holstein. In K.-H. Willroth 
+(Ed.), Siedlungen der älteren Bronzezeit. Beiträge zur Siedlungsarchäologie und Paläoökologie 
+des zweiten vorchristlichen Jahrtausends in Südskandinavien, Norddeutschland und den 
+Niederlanden. Workshop vom 7. bis 9. April 2011 in Sankelmark (pp. 91–118). Wachholtz.
+Meller, H., Bertemes, F., Bork, H.-R., & Risch, R. (Eds.). (2013). 1600—Kultureller Umbruch im 
+Schatten des Thera-Ausbruchs? 1600 – Cultural change in the shadow of the Thera-Eruption? 
+4. Mitteldeutscher Archäologentag vom 14. Bis 16. Oktober 2011 in Halle (Saale). Landesamt 
+für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte.
+Mikkelsen, M. (2020). Slaves in Bronze Age Southern Scandinavia? Acta Archaeologica, 91(1), 
+147–190. https://doi.org/10.1111/j.1600-­0390.2020.12225.x
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+140
+Mischka, D. (2004). Aoristische Analyse in der Archäologie. Archäologische Informationen, 
+27(2), 233–243.
+Mischka, D. (2013). Die sozioökonomische Bedeutung von Pflugspuren im Frühneolithikum 
+des nördlichen Mitteleuropas. In I. Heske, H.-J. Nüsse, & J. Schneeweiß (Eds.), Landschaft, 
+Besiedlung und Siedlung: Archäologische Studien im nordeuropäischen Kontext (pp. 295–306). 
+Wachholtz.
+Müller, J. (2013). Mesolithisch  – neolithisch: Zur Entwicklung von Hütten und Häusern im 
+südlichen Skandinavien und nördlichen Mitteleuropa. Offa. Berichte und Mitteilungen 
+zur Urgeschichte, Frühgeschichte und Mittelalterarchäologie, 69, 249–264. https://doi.
+org/10.26016/offa.2012.A21
+Müller, J. (2019). Boom and bust, hierarchy and balance: From landscape to social meaning – 
+Megaliths and societies in Northern Central Europe. In J. Müller, M. Hinz, & M. Wunderlich 
+(Eds.), Megaliths – Societies – Landscapes. Early monumentality and social differentiation 
+in Neolithic Europe. Proceedings of the international conference »Megaliths  – Societies  – 
+Landscapes. Early Monumentality and Social Differentiation in Neolithic Europe« (16th–20th 
+June 2015) in Kiel (Vol. 1, pp. 31–76). Dr. Rudolf Habelt. https://www.monument.ufg.uni-­kiel.
+de/fileadmin/projekte/common/fmsd18/Megaliths_Societies_Landscapes_1.pdf
+Müller, J. (2022). Funnel Beaker societies and long-distance trade. In J.  Ling, R.  Chacon, & 
+K. Kristiansen (Eds.), Trade before civilization. Long-distance exchange and the rise of social 
+compexity (pp. 23–39). Cambridge University Press.
+Müller, J., & Kirleis, W. (2019). The concept of socio-environmental transformations in prehis­
+toric and archaic societies in the Holocene: An introduction to the special issue. The Holocene 
+[Special Issue: Scales of Transformation – Human-Environmental Interaction in Prehistoric 
+and Archaic Societies], 29(10), 1517–1530. https://doi.org/10.1177/0959683619857236
+Müller, J., & Peterson, R. (2015). Ceramics and Society in Northern Europe. In C.  Fowler, 
+J. Harding, & D. Hofmann (Eds.), The Oxford handbook of Neolithic Europe (pp. 573–604). 
+Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199545841.013.030
+Müller, J., & Vandkilde, H. (2021). 2. The Nordic Bronze Age Rose from Copper Age diver­
+sity: Contrasts in the Cimbrian Peninsula. In K. I. Austvoll, M. H. Eriksen, P. D. Fredriksen, 
+L. Melheim, L. Prøsch-Danielsen, & L. Skogstrand (Eds.), Contrasts of the Nordic Bronze 
+Age. Essays in honour of Christopher Prescott (pp. 29–48). Brepols Publishers. https://doi.
+org/10.1484/M.TANE-­EB.5.120581
+Müller, J., Brozio, J. P., Demnick, D., Dibbern, H., Fritsch, B., Furholt, M., Hage, F., Hinz, M., 
+Lorenz, L., Mischka, D., & Rinne, C. (2012). Periodisierung der Trichterbecher-Gesellschaften. 
+Ein Arbeitsentwurf. In M. Hinz & J. Müller (Eds.), Siedlung, Grabenwerk, Grosssteingrab. 
+Studien zu Gesellschaft, Wirtschaft und Umwelt der Trichterbechergruppen im nördlichen 
+Mitteleuropa (pp.  29–34). Dr. Rudolf Habelt. https://www.monument.ufg.uni-­kiel.de/filead­
+min/projekte/common/fmsd2/FMSD_02.pdf
+Müller, J., Dibbern, H., & Hage, F. (2014). Non-megalithic mounds beneath megaliths: 
+A new perspective on monumentality in North Central Europe. In M.  Furholt (Ed.), 
+Landscapes, histories and societies in the Northern European Neolithic (pp.  171–182). 
+Dr. Rudolf Habelt.
+Müller, J., Brozio, J. P., Dörfler, W., & Kirleis, W. (2020). Narratives of 3rd-millennium transfor­
+mations: New biographies of Neolithic societies, landscapes and monuments. In A. B. Gebauer, 
+L. Sørensen, A. Teather, & A. C. Valera (Eds.), Monumentalizing life in Neolithic Europe: 
+Narratives of continuity and change (pp. 115–124). Oxbow Books.
+Pahlow, M. (2006). Gold in der Bronzezeit in Schleswig-Holstein. Dr. Rudolf Habelt.
+Palmisano, A., Bevan, A., Kabelindde, A., Roberts, N., & Shennan, S. (2021). Long-term demo­
+graphic trends in prehistoric Italy: Climate impacts and regionalised socio-ecological trajecto­
+ries. Journal of World Prehistory, 34, 381–432. https://doi.org/10.1007/s10963-­021-­09159-­3
+Parkinson, E. W., McLaughlin, T. R., Esposito, C., & Stoddart, & Malone, C. (2021). Radiocarbon 
+dated trends and Central Mediterranean prehistory. Journal of World Prehistory, 34, 317–379. 
+https://doi.org/10.1007/s10963-­021-­09158-­4
+J. P. Brozio et al.
+141
+Polanyi, K. (1944). The great transformation: The political and economic origins of our time. 
+Beacon Press.
+Rassmann, K. (1993). Spätneolithikum und frühe Bronzezeit im Flachland zwischen Elbe und 
+Oder. Archäologisches Landesmuseum für Mecklenburg-Vorpommern.
+Ratcliffe, J. H. (2000). Aoristic analysis: The spatial interpretation of unspecific temporal events. 
+International Journal of Geographical Information Science, 14(7), 669–679. https://doi.
+org/10.1080/136588100424963
+Rebay-Salisbury, K.  C. (2012). Inhumation and cremation: How burial practices are linked 
+to beliefs. In K. C. Rebay-Salisbury & M. L. Stig Sørensen (Eds.), Embodied knowledge: 
+Historical perspectives on belief and technology (pp. 15–26). Oxbow Books.
+Rech, K.  W. (1979). Studien zu Depotfunden der Trichterbecher- und Einzelgrabkultur des 
+Nordens. Wachholtz.
+Rick, J. W. (1987). Dates as data: An examination of the Peruvian preceramic radiocarbon record. 
+American Antiquity, 52(1), 55–73. https://doi.org/10.2307/281060
+Schaefer-Di Maida, S. (2023). Unter Hügeln. Bronzezeitliche Transformationsprozesse in 
+Schleswig-Holstein am Beispiel des Fundplatzes von Mang de Bargen (Bornhöved, Kr. 
+Segeberg) [Doctoral dissertation, Christian-Albrechts-Universität zu Kiel]. Sidestone Press. 
+https://doi.org/10.59641/q9013tc
+Schaefer-Di Maida, S., & Kneisel, J. (2023). The urnfield phenomenon in Schleswig-Holstein: 
+New insights into the chronology and hypotheses. In A.  R. Rose, L.  M. Christensen, & 
+A. J. Louwen (Eds.), Beyond Urnfields. New Perspectives on Late Bronze Age – Early Iron Age 
+Funerary Practices in Northwest Europe (pp. 117–132). Verlag Ludwig.
+Schmidt, J.-P. (1993). Studien zur jüngeren Bronzezeit in Schleswig-Holstein und dem nordel­
+bischen Hamburg. Dr. Rudolf Habelt.
+Schultrich, S. (2018). Das Jungneolithikum in Schleswig-Holstein. Sidestone Press. https://doi.
+org/10.59641/b4578en
+Schultrich, S. (2019). Flint and Bronze in Late Neolithic Schleswig-Holstein: Distribution, con­
+texts and meanings. Journal of Neolithic Archaeology, 20, 13–82. https://doi.org/10.12766/
+jna.2018.2
+Schultrich, S. (2022). Kriegerideal und Netzwerke: Die Doppeläxte West- und Mitteleuropas im 
+Kontext der jung- bis endneolithischen Kulturentwicklung [Doctoral dissertation, Christian-­
+Albrechts-­Universität zu Kiel]. https://macau.uni-­kiel.de/receive/macau_mods_00002793
+Shennan, S., & Edinborough, K. (2007). Prehistoric population history: From the late glacial to 
+the Late Neolithic in Central and Northern Europe. Journal of Archaeological Science, 34, 
+1339–1345. https://doi.org/10.1016/j.jas.2006.10.031
+Shennan, S., Edinborough, K., & Kerig, T. (2017). Demographische Modellbildung als Schlüssel 
+zu Kulturkontakt und Kommunikation: Fallbeispiel Neolithisierung Zentral- und Nordwest-­
+Europas. In T.  Link & J.  Pycel (Eds.), Kulturkontakt und Kommunikation und aktuelle 
+Forschungen zum Neolithikum (pp. 33–47). Welt und Erde Verlag.
+Sommerfeld, C. (1994). Gerätegeld Sichel. Studien zur monetären Struktur bronzezeitlicher Horte 
+im nördlichen Mitteleuropa. De Gruyter. https://doi.org/10.1515/9783110857948
+Spellerberg, I. F., & Fedor, P. J. (2003). A tribute to Claude Shannon (1916–2001) and a plea for 
+more rigorous use of species richness, species diversity and the ‘Shannon–Wiener’ Index. Global 
+Ecology and Biogeography, 12(3), 177–179. https://doi.org/10.1046/j.1466-­822X.2003.00015.x
+Steffens, J. (2009). Die neolithischen Fundplätze von Rastorf, Kreis Plön. Eine Fallstudie zur 
+Trichterbecherkultur im nördlichen Mitteleuropa am Beispiel eines Siedlungsraumes. 
+Dr. Rudolf Habelt.
+Svanberg, F. (2005). House Symbolismin aristocratic death rituals of the bronze age. In T. Artelius 
+& F.  Svanberg (Eds.), Dealing with the dead. Archaeological perspectives on prehistoric 
+Scandinavian burial ritual (pp. 73–98). National Heritage Board.
+Thrane, H. (1984). Lusehøj ved Voldtofte – en sydvestfynsk storhøj fra yngre broncealder. Odense 
+Bys Museer.
+5  Patterns of Socio-economic Cultural Transformations in Neolithic and Bronze Age…
+142
+van der Velde, H.  M., Bouma, N., & Raemaekers, D. (Eds.). (2020). Making a Neolithic 
+non-megalithic monument. A TRB burial ground at Dalfsen (the Netherlands), c. 3000–2750 cal. 
+BC. Sidestone Press. https://www.sidestone.com/books/making-­a-­neolithic-­non-­megalithic-­
+monument
+Vandkilde, H. (1996). From stone to bronze: The metalwork of the Late Neolithic and the earliest 
+Bronze Age in Denmark. Jutland Archaeological Society.
+Vandkilde, H. (2017). The metal hoard from Pile in Scania, Sweden. Aarhus University Press.
+Willroth, K.-H. (2002). Die nordische Bronzezeit. Anmerkungen zu ihrer Herausbildung. Bericht 
+der Römisch-Germanischen Kommission, 83, 99–122.
+Woltermann, G. (2016). Die prähistorischen Bernsteinartefakte aus Deutschland vom 
+Paläolithikum bis zur Bronzezeit. Dr. Rudolf Habelt.
+Wunderlich, M. (2019). Megalithic monuments and social structures. Comparative studies on 
+recent and Funnel Beaker societies (Vol. 10.59641/f8134ir). Sidestone Press.
+Zápotocký, M. (1992). Streitäxte des mitteleuropäischen Äneolithikums. VCH Acta Humaniora.
+Open Access  This chapter is licensed under the terms of the Creative Commons Attribution 4.0 
+International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate 
+credit to the original author(s) and the source, provide a link to the Creative Commons license and 
+indicate if changes were made.
+The images or other third party material in this chapter are included in the chapter’s Creative 
+Commons license, unless indicated otherwise in a credit line to the material. If material is not 
+included in the chapter’s Creative Commons license and your intended use is not permitted by 
+statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+the copyright holder.
+J. P. Brozio et al.

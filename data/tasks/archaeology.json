@@ -1,0 +1,105 @@
+{
+  "task_id": "archaeology",
+  "domain": "humanities",
+  "workflow_tags": "time series analysis, data cleaning, data visualization",
+  "domain_knowledge": "1. Symbolic capital consists of Hatchet & Swords, Daggers, House Size. 2. Social Capital consists of Copper and Gold, Amber, Monument Count 3. Cultural Capital consists of Diversity of Pottery form, Diversity of Pottery Decoration. 4. Economic Capital consists of Depot, Sickle, Axes & Celts, Monument Size. 5. Human impact or landscape openness, respectively, as reflected in the pollen data, can be used as a demographic indicator based on the assumption that an increasing population density leads to increasing woodland clearance due to an increasing demand for resources including wood, agricultural land and settlement areas. Each sample from the pollen record used in the principal component analysis is absolutely dated and therefore the openness score (PC 1.) can be plotted as a time series, expressing human induced land clearance. The 'Belau_PC1' of pollen data (pollen_openness_score_Belau_Woserin_Feeser_et_al_2019.csv) has been assumed to reflect openness. Original openness score through 'Belau_PC1', 100-year smoothed openness score, and linear interpolation of openness score have been used to signify growth. The original openness score (Belau_PC1), the 100-year smoothed openness score (pollen_inter_100), and the linear interpolation of the openness score (pollen_inter) have been used to signify openness. 6. Demographic growth manifests itself in growth set bringing with it a further opening of the landscape. Opening of landscape corresponds to higher growth rates. During the Early Neolithic, we are dealing with a population growth that goes hand in hand with the opening up of vegetation and the cultivation of the landscape. The growth rate is defined as the percentage change of the 100-year smoothed openness score (pollen_grate_100). 7. Time series analysis and PCA are done in 100-year bins.",
+  "workflow": "",
+  "datasets": [
+    {
+      "name": "pollen_openness_score_Belau_Woserin_Feeser_et_al_2019.csv",
+      "description": "Records of pollen data's PCA & interpolations across sites.",
+      "columns": {
+        "Unnamed": "Index or a time marker in years counting backward",
+        "calBP": "Calibrated years Before Present (1950 AD)",
+        "CE": "Common Era",
+        "Belau_PC1": "PC1 of principal components for pollen in Belau",
+        "Woserin_PC1": "PC1 of principal components for pollen in Woserin",
+        "Belau_PC1_inter": "Interpolated PC1 for the Belau site",
+        "Woserin_PC1_inter": "Interpolated PC1 for the Woserin site",
+        "MEAN": "The average of the interpolated PC1 for the Belau and Woserin sites",
+        "SMOOTH_MEAN_50y": "Smoothed averages of the PC1 over 50 years",
+        "SMOOTH_MEAN_100y": "Smoothed averages of the PC1 over 100 years",
+        "SMOOTH_MEAN_150y": "Smoothed averages of the PC1 over 150 years",
+        "SMOOTH_MEAN_200y": "Smoothed averages of the PC1 over 200 years",
+        "SMOOTH_MEAN_250y": "Smoothed averages of the PC1 over 250 years"
+      },
+      "csv_path": "data\\discoverybench\\discoverybench\\real\\test\\archaeology\\pollen_openness_score_Belau_Woserin_Feeser_et_al_2019.csv"
+    },
+    {
+      "name": "time_series_data.csv",
+      "description": " This dataset provides a detailed quantification of archaeological findings over various time periods, measured in Z values for different cultural and economic indicators such as tools, house sizes, materials, and monument data. ",
+      "columns": {
+        "CE": "Common Era (BCE x (-1))",
+        "calBP": "Calibrated years before the present",
+        "kde_all_mean": "Mean of kernel density estimation of all data points",
+        "kde_all_std": "Standard deviation of kernel density estimation of all data points",
+        "kde_all_detrend": "KDE of data points after detrending",
+        "g_all_mean": "Mean of KDE growth rates",
+        "g_all_std": "Standard deviation of KDE growth rates",
+        "pollen": "Pollen data of Belau Lake",
+        "pollen_inter": "Interpolated and forward filled missing pollen values",
+        "pollen_detrend": "Detrended pollen values from interpolated pollen values",
+        "pollen_inter_100": "Rolling mean of the interpolated pollen data with a window size of 100",
+        "pollen_grate_100": "Percentage change of interpolated pollen data",
+        "HatchetSword": "Z values for Hatchets and Swords",
+        "HatchetSword_inter": "Interpolated z values for Hatchets and Swords",
+        "Dagger": "Z values for Daggers",
+        "Dagger_inter": "Interpolated z value for Daggers",
+        "HouseSize": "Z values for House Size in meter squared",
+        "HouseSize_inter": "Interpolated z values for House Sizes in meter squared",
+        "CopperGold": "Z values for Copper and Gold",
+        "CopperGold_inter": "Interpolated z values for Copper and Gold",
+        "Amber": "Z values for Amber",
+        "Amber_inter": "Interpolated z values for Amber",
+        "MonumentCount": "Z values for Monument Count",
+        "MonumentCount_inter": "Interpolated z values for Monument Count",
+        "Depot": "Z values for Depot",
+        "Depot_inter": "Interpolated z values for Depot",
+        "Sickle": "Z values for Sickle",
+        "Sickle_inter": "Interpolated z values for Sickle",
+        "AxesCelts": "Z values for Axes and Celts",
+        "AxesCelts_inter": "Interpolated z values for Axes and Celts",
+        "MonumentSize": "Z values for Monument Size",
+        "MonumentSize_inter": "Interpolated z values for Monument Size",
+        "PotteryForm": "Z values for Pottery Form",
+        "PotteryForm_inter": "Interpolated z values for Pottery Form",
+        "PotteryDecoration": "Z values for Pottery Decoration",
+        "PotteryDecoration_inter": "Interpolated z values for Pottery Decoration"
+      },
+      "csv_path": "data\\discoverybench\\discoverybench\\real\\test\\archaeology\\time_series_data.csv"
+    },
+    {
+      "name": "capital.csv",
+      "description": "This dataset contains archaeological data of various forms of capital across different prehistoric periods.",
+      "columns": {
+        "BCE": "Before Common Era",
+        "group": "Dropped after data loading",
+        "color": "Dropped after data loading",
+        "ZAxtSchwert": "Z values for Hatchets and Swords",
+        "ZDolch": "Z values for Daggers",
+        "Zhausgr": "Z values for House Size",
+        "ZCU_AU": "Z values for Copper and Gold",
+        "Zamber": "Z values for Amber",
+        "ZMonument": "Z values for Monument Count",
+        "ZHort": "Z values for Depot",
+        "ZSichel": "Z values for Sickle",
+        "ZBeil": "Z values for Axes and Celts",
+        "ZMW": "Z values for Monument Size",
+        "ZKeform": "Z values for Pottery Form",
+        "Zkeverz": "Z values for Pottery Decoration"
+      },
+      "csv_path": "data\\discoverybench\\discoverybench\\real\\test\\archaeology\\capital.csv"
+    }
+  ],
+  "queries": [
+    {
+      "qid": 0,
+      "question": "In which century did the axes become quantitatively most frequent?",
+      "question_type": "context",
+      "true_hypothesis": ""
+    }
+  ],
+  "hypotheses": [
+    {}
+  ]
+}
